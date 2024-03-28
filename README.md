@@ -57,11 +57,7 @@ Para complementar minha tragetória até o momento, iniciei o estágio na empres
 O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia em um site web que listava vagas de empregos e cursos na área de tecnologia. Para alcançar esse objetivo, foi necessário a criação de um site e o desenvolvimento de um programa em Python projetado para a raspagem de dados para puxar as vagas de emprego e cursos de especialização em tecnologia disponiveis.
 
 As páginas desenvolvidas no projeto como requisitos funcionais foram:
-- Página Home;
-- Página de Cursos e Certificações
-- Página de Vagas de Emprego
-- Página de Métricas
-- Página de Localização
+- Página Home, Página de Cursos e Certificações, Página de Vagas de Emprego, Página de Métricas, Página de Localização
 </Div>
 
 ### Tecnologias utilizadas
