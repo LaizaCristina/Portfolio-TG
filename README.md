@@ -26,7 +26,7 @@ Para complementar minha tragetória até o momento, iniciei o estágio na empres
 <Div align="center" >
 
 ### Contatos
-  <a href= "www.linkedin.com/in/laiza-cristina-machado-zaic-truyts-476223252" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href= "https://www.linkedin.com/in/laiza-cristina-machado-zaic-truyts-476223252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://github.com/LaizaCristina" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <hr />  
 
