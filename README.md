@@ -12,7 +12,7 @@
 
 <Div align="justify" >
 
-Sou estudante do 5º semestre do curso de Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal em São José dos Campos. No ensino médio despertei o interesse pela área de tecnologia e busquei aprimorar meus conhecimentos por meio de cursos técnicos.
+Sou estudante do 5º semestre do curso Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal em São José dos Campos. No ensino médio despertei o interesse pela área de tecnologia e busquei aprimorar meus conhecimentos por meio de cursos técnicos.
 
 Durante o ensino médio, cursei na Escola Estadual José Mariotto Ferreira Major Aviador junto com o curso de Aprendizagem Industrial de Mecânico de Usinagem no Serviço Nacional de Aprendizagem Industrial (SENAI), onde tive uma base sólida de softskills voltada a organização, respeito com os professores e colegas de classe e principalmente a disciplina. No SENAI também tivee contato com programação de CNC. Depois iniciei curso Técnico de Automação Industrial no Instituto Federal de São Paulo (IFSP) onde pude ter mais contato e desenvolver mais com a programação em arduinos, linguagem C++, CLP e CNC. 
 No ano de conclusão do curso Tecnico iniciei ensino superior na Faculdade de Tecnologia (FATEC) onde pude ter contato mais direto com área da tecnologia e programação.
@@ -108,7 +108,7 @@ Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end d
 
 ### Soft skills
 * Organização 
-> Adiquirida por meio da gestão do projeto, gestão da equipe, sepração de tarefas e controle de tempo e peso das atividades através do desenvolvimento do burndown e backlog.
+> Adiquirida por meio da gestão do projeto, gestão da equipe, separação de tarefas e controle de tempo e peso das atividades através do desenvolvimento do burndown e backlog.
 
 * Comunicação 
 > Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida aos meus colegas.
