@@ -91,7 +91,8 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
 
 <Div align="justify" >
 
-Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto.
+Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master fiz o planejamento da sprint através do gráfico Burndown e com planilha em Excel. Juntoamente com time de desenvolvedores, organizei e distribui as tarefas de acordo com o necessário, além de traçar o plano de como deveriámos seguir desenvolvendo as sprints.
+No desenvolvimento do front-end utilizai HTML e CSS para desenvolvimento das páginas webs do projeto, utilizei o framework Bootstrap para melhor auxiliar na construção e estrutura da interface.
 
 ### Resultado das páginas em front-end:
  <img src='https://user-images.githubusercontent.com/100849359/172060844-e01a5767-ed41-46ba-90f4-32270e1b5a77.gif' width='65%' height='65%'>
