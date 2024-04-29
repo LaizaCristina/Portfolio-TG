@@ -50,7 +50,7 @@ Para complementar minha tragetória até o momento, iniciei o estágio na empres
 
 </Div>
 
-### Em 2022-1
+### ⭐ Em 2022-1
 
 <Div align="justify" >
 
@@ -122,7 +122,7 @@ No desenvolvimento do front-end utilizai HTML e CSS para desenvolvimento das pá
 
 <hr /> 
 
-### Em 2022-2
+### ⭐ Em 2022-2
 
 <Div align="justify" >
 
