@@ -120,6 +120,71 @@ No desenvolvimento do front-end utilizai HTML e CSS para desenvolvimento das pá
 * Trabalho em equipe
 > Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
 
+<hr /> 
+
+### Em 2022-2
+
+<Div align="justify" >
+
+> [Link para a API do 2º Semetre](https://github.com/4DeskGroup/API-2022.2)
+
+O projeto integrador do segundo semestre do curso envolveu colaboração com cliente Track Cash. Seu propósito central consistia em uma aplicação desktop com objetivo de integração de registros de canais de vendas; em lojas físicas ou online; com o cliente que quer acessar a plataforma, afim de interagir as informações de vendas desses canais. Para alcançar esse objetivo, foi necessário a criação de um software desktop intalável.
+
+As páginas desenvolvidas no projeto como requisitos funcionais foram:
+- Tela Home, tela login, tela cadastro, tela cadastrar canal de vendas, tela configuração ativas, tela configurações de canais, Canais ativos, tela dúvidas, tela desativar atividade de usuário, tela alterar senha.
+</Div>
+
+### Tecnologias utilizadas
+
+ <details><summary>Tecnologias</summary>
+   
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+  
+  <img width="50 rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png"/> Net Beans 
+  > Utilizado para o desenvolvimento do código de todo o projeto.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/> Java 
+ > Utilizamos a linguagem Java para o desenvolvimento do software desktoop.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
+  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+
+
+ </details>
+
+### Contribuições pessoais
+
+<Div align="justify" >
+
+Neste projeto fiquei com o cargo de Desenvolvedore e responsável pela interface, GUI, do projeto do projeto. No desenvolvimento da GUI utilizei código Java, com a interface e método de drag and drop disponível no Net Beans.
+
+### Resultado das páginas em front-end:
+ <img src='https://github.com/4DeskGroup/API-2022.2/raw/main/doc/sprint%204/gifs/Politica%20de%20Privacidade%20e%20Termos%20de%20Uso.gif' width='65%' height='65%'>
+ <img src='https://github.com/4DeskGroup/API-2022.2/raw/main/doc/sprint%204/gifs/Frontend%20Atualizado%20Administrador.gif' width='65%' height='65%'>
+ 
+</div>
+
+### Hard skills
+* Criação de protótipos pelo Figma:
+> Sei fazer com autonomia.
+
+* Desenvolvimento de telas de software utilizando a linguagem Java:
+> Sei fazer com pesquisa e ajuda.
+
+### Soft skills
+* Organização 
+> Como Scrum Maaster, adiquiri por meio da gestão do projeto, gestão da equipe, separação de tarefas e controle de tempo e peso das atividades através do desenvolvimento do burndown e backlog.
+
+* Comunicação 
+> Alcancei por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e resoluções de conflitos e empecilhos no meio do projeto. Além de resolver conflitos aprentes na equipe.
+ 
+* Proatividade
+> Alcançada por meio de pesquisas sobre como usar e desenvolver com a tecnologias, pesquisas sobre como melhorar o desenvolvimento da equipe e metodologia SCRUM.
+
+* Trabalho em equipe
+> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
+
 
 
 
