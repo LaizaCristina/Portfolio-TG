@@ -4,7 +4,7 @@
 </Div>
 
 <Div align="center" >
-<img align="center" src="https://avatars.githubusercontent.com/u/111503805?v=4" alt="Foto de perfil" width="200"/>
+<img align="center" src="https://github.com/LaizaCristina/Portifolio-TG/blob/main/images/perfil%20circular.png" width="200"/>
 </Div>
 
   
