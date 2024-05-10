@@ -44,11 +44,8 @@ Para complementar minha tragetória até o momento, iniciei o estágio na empres
 | Introduction to MongoDB | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Concluído |
 | MongoDB Node.js Developer Path | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Concluído |
 
-<hr /> 
 
 ## :computer: Meus Projetos
-
-<br />
 
  |   Projeto  |  Período  |    Empresa Parceira    |
  | :---   | :---    | :---      |
@@ -66,7 +63,7 @@ Para complementar minha tragetória até o momento, iniciei o estágio na empres
 
 <div name="1sem"></div>
 
-### ⭐ Em 2022-1
+### ⭐ 1° Semestre - Em 2022.1
 
 <Div align="justify" >
 
@@ -77,6 +74,17 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
 As páginas desenvolvidas no projeto como requisitos funcionais foram:
 - Página Home, Página de Cursos e Certificações, Página de Vagas de Emprego, Página de Métricas, Página de Localização
 </Div>
+
+<Div align="justify" >
+
+### Contribuições pessoais
+Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master fiz o planejamento da sprint através do gráfico Burndown e com planilha em Excel. Juntoamente com time de desenvolvedores, organizei e distribui as tarefas de acordo com o necessário, além de traçar o plano de como deveriámos seguir desenvolvendo as sprints.
+No desenvolvimento do front-end utilizai HTML e CSS para desenvolvimento das páginas webs do projeto, utilizei o framework Bootstrap para melhor auxiliar na construção e estrutura da interface.
+
+### Resultado das páginas em front-end:
+ <img src='https://user-images.githubusercontent.com/100849359/172060844-e01a5767-ed41-46ba-90f4-32270e1b5a77.gif' width='65%' height='65%'>
+ <img src='https://user-images.githubusercontent.com/100849359/172060863-0a367980-76e4-49b9-b130-706e255ce7c2.gif' width='65%' height='65%'>
+</div>
 
 ### Tecnologias utilizadas
 
@@ -102,20 +110,6 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
 
  </details>
 
-
-### Contribuições pessoais
-
-<Div align="justify" >
-
-Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master fiz o planejamento da sprint através do gráfico Burndown e com planilha em Excel. Juntoamente com time de desenvolvedores, organizei e distribui as tarefas de acordo com o necessário, além de traçar o plano de como deveriámos seguir desenvolvendo as sprints.
-No desenvolvimento do front-end utilizai HTML e CSS para desenvolvimento das páginas webs do projeto, utilizei o framework Bootstrap para melhor auxiliar na construção e estrutura da interface.
-
-### Resultado das páginas em front-end:
- <img src='https://user-images.githubusercontent.com/100849359/172060844-e01a5767-ed41-46ba-90f4-32270e1b5a77.gif' width='65%' height='65%'>
- <img src='https://user-images.githubusercontent.com/100849359/172060863-0a367980-76e4-49b9-b130-706e255ce7c2.gif' width='65%' height='65%'>
- 
-</div>
-
 ### Hard skills
 * Criação de protótipos pelo Figma:
 > Sei fazer com autonomia.
@@ -140,7 +134,7 @@ No desenvolvimento do front-end utilizai HTML e CSS para desenvolvimento das pá
 
 <div name="2sem"></div>
 
-### ⭐ Em 2022-2
+### ⭐ 2° Semestre - Em 2022.2
 
 <Div align="justify" >
 
@@ -151,6 +145,18 @@ O projeto integrador do segundo semestre do curso envolveu colaboração com cli
 As páginas desenvolvidas no projeto como requisitos funcionais foram:
 - Tela Home, tela login, tela cadastro, tela cadastrar canal de vendas, tela configuração ativas, tela configurações de canais, Canais ativos, tela dúvidas, tela desativar atividade de usuário, tela alterar senha.
 </Div>
+
+### Contribuições pessoais
+
+<Div align="justify" >
+
+Neste projeto fiquei com o cargo de Desenvolvedore e responsável pela interface, GUI, do projeto. No desenvolvimento da GUI utilizei código Java, com a interface e método de drag and drop disponível no Net Beans.
+
+### Resultado das telas:
+ <img src='https://github.com/4DeskGroup/API-2022.2/raw/main/doc/sprint%204/gifs/Politica%20de%20Privacidade%20e%20Termos%20de%20Uso.gif' width='65%' height='65%'>
+ <img src='https://github.com/4DeskGroup/API-2022.2/raw/main/doc/sprint%204/gifs/Frontend%20Atualizado%20Administrador.gif' width='65%' height='65%'>
+ 
+</div>
 
 ### Tecnologias utilizadas
 
@@ -170,18 +176,6 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
 
 
  </details>
-
-### Contribuições pessoais
-
-<Div align="justify" >
-
-Neste projeto fiquei com o cargo de Desenvolvedore e responsável pela interface, GUI, do projeto. No desenvolvimento da GUI utilizei código Java, com a interface e método de drag and drop disponível no Net Beans.
-
-### Resultado das páginas em front-end:
- <img src='https://github.com/4DeskGroup/API-2022.2/raw/main/doc/sprint%204/gifs/Politica%20de%20Privacidade%20e%20Termos%20de%20Uso.gif' width='65%' height='65%'>
- <img src='https://github.com/4DeskGroup/API-2022.2/raw/main/doc/sprint%204/gifs/Frontend%20Atualizado%20Administrador.gif' width='65%' height='65%'>
- 
-</div>
 
 ### Hard skills
 * Criação de protótipos pelo Figma:
@@ -207,7 +201,7 @@ Neste projeto fiquei com o cargo de Desenvolvedore e responsável pela interface
 
 <div name="3sem"></div>
 
-### ⭐ Em 2023-1
+### ⭐ 3° Semestre - Em 2023.1
 
 <Div align="justify" >
 
@@ -218,6 +212,18 @@ O projeto integrador do segundo semestre do curso envolveu colaboração com cli
 As páginas desenvolvidas no projeto como requisitos funcionais foram:
 - Tela Home, tela login, tela cadastro, tela dashboard com os usuários, lista com o CRUD dos usuários.
 </Div>
+
+### Contribuições pessoais
+
+<Div align="justify" >
+
+Neste projeto fiquei com o cargo de Scrum Master e Desenvolvedora e responsável pelo frontend da aplicação.. No desenvolvimento das telas utilizei React, JavaScript, NodeJs.
+
+### Resultado das páginas em front-end:
+ <img src='https://github.com/4DeskGroup/API-2023.1/raw/main/doc/sprint%203/gifs/8_dashboard.gif?raw=true' width='65%' height='65%'>
+ <img src='https://github.com/4DeskGroup/API-2023.1/raw/main/doc/sprint%203/gifs/7_ativar%20desativar%20usu%C3%A1rio.gif?raw=true' width='65%' height='65%'>
+ 
+</div>
 
 ### Tecnologias utilizadas
 
@@ -247,18 +253,6 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
 
  </details>
 
-### Contribuições pessoais
-
-<Div align="justify" >
-
-Neste projeto fiquei com o cargo de Scrum Master e Desenvolvedora e responsável pelo frontend da aplicação.. No desenvolvimento das telas utilizei React, JavaScript, NodeJs.
-
-### Resultado das páginas em front-end:
- <img src='https://github.com/4DeskGroup/API-2023.1/raw/main/doc/sprint%203/gifs/8_dashboard.gif?raw=true' width='65%' height='65%'>
- <img src='https://github.com/4DeskGroup/API-2023.1/raw/main/doc/sprint%203/gifs/7_ativar%20desativar%20usu%C3%A1rio.gif?raw=true' width='65%' height='65%'>
- 
-</div>
-
 ### Hard skills
 * Criação de protótipos pelo Figma:
 > Sei fazer com autonomia.
@@ -283,7 +277,7 @@ Neste projeto fiquei com o cargo de Scrum Master e Desenvolvedora e responsável
 
 <div name="4sem"></div>
 
-### ⭐ Em 2023-1
+### ⭐ 4° Semestre - Em 2023.2
 
 <Div align="justify" >
 
@@ -294,6 +288,18 @@ O projeto integrador do segundo semestre do curso envolveu colaboração com cli
 As páginas desenvolvidas no projeto como requisitos funcionais foram:
 - Tela Home, tela login, tela cadastro, tela dashboard com os usuários, tela comprar óleo, tela cadastrar óleo, tela de estoque de óleo, tela transferência de Greenneats, definição do valor do óleo, histórico de compra de óleo, tranferência de greenneats.
 </Div>
+
+### Contribuições pessoais
+
+<Div align="justify" >
+
+Neste projeto fiquei com o cargo de Scrum Master e Desenvolvedora e responsável pelo frontend da aplicação.. No desenvolvimento das telas utilizei React, JavaScript, NodeJs.
+
+### Resultado das páginas em front-end:
+ <img src='https://github.com/4DeskGroup/API-2023.2/raw/main/Projeto/Sprint%204/Gifs/DashBoardGIF.gif' width='65%' height='65%'>
+ <img src='https://github.com/4DeskGroup/API-2023.2/raw/main/Projeto/Sprint%203/Gifs/EmrpesaComrpaOleoParc.gif' width='65%' height='65%'>
+ 
+</div>
 
 ### Tecnologias utilizadas
 
@@ -325,18 +331,6 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
 
 
  </details>
-
-### Contribuições pessoais
-
-<Div align="justify" >
-
-Neste projeto fiquei com o cargo de Scrum Master e Desenvolvedora e responsável pelo frontend da aplicação.. No desenvolvimento das telas utilizei React, JavaScript, NodeJs.
-
-### Resultado das páginas em front-end:
- <img src='https://github.com/4DeskGroup/API-2023.2/raw/main/Projeto/Sprint%204/Gifs/DashBoardGIF.gif' width='65%' height='65%'>
- <img src='https://github.com/4DeskGroup/API-2023.2/raw/main/Projeto/Sprint%203/Gifs/EmrpesaComrpaOleoParc.gif' width='65%' height='65%'>
- 
-</div>
 
 ### Hard skills
 * Criação de protótipos pelo Figma:
