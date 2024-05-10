@@ -52,7 +52,7 @@ Para complementar minha tragetória até o momento, iniciei o estágio na empres
 
  |   Projeto  |  Período  |    Empresa Parceira    |
  | :---   | :---    | :---      |
- | [1º Semestre](https://github.com/LaizaCristina/Portifolio-TGtg#1sem)  | 2022 - 1° semestre  | Cliente Interno |
+ | [1º Semestre](https://github.com/LaizaCristina/Portifolio-TG#1sem)  | 2022 - 1° semestre  | Cliente Interno |
  | [2º Semestre](https://github.com/LaizaCristina/Portifolio-TG#2sem) | 2022 - 2º Semestre  | Track Cash |
  | [3º Semestre](https://github.com/LaizaCristina/Portifolio-TG#3sem)  | 2023 - 1º Semestre  | Visiona |
  | [4º Semestre](https://github.com/LaizaCristina/Portifolio-TG#4sem)  | 2023 - 2º Semestre  | Greenneat |
