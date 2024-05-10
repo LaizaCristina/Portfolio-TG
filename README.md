@@ -46,10 +46,25 @@ Para complementar minha tragetória até o momento, iniciei o estágio na empres
 
 <hr /> 
 
-## Projetos
+## :computer: Meus Projetos
+
+<br />
+
+ |   Projeto  |  Período  |    Empresa Parceira    |
+ | :---   | :---    | :---      |
+ | [1º Semestre](https://github.com/thaleskerber/portifolio-tg#1sem)  | 2022 - 1° semestre  | Cliente Interno |
+ | [2º Semestre](https://github.com/thaleskerber/portifolio-tg#2sem) | 2022 - 2º Semestre  | Track Cash |
+ | [3º Semestre](https://github.com/thaleskerber/portifolio-tg#3sem)  | 2023 - 1º Semestre  | Visiona |
+ | [4º Semestre](https://github.com/thaleskerber/portifolio-tg#4sem)  | 2023 - 2º Semestre  | Greenneat |
+
+ 
+<br />
+
+---
 
 </Div>
 
+<div name="1sem"></div>
 ### ⭐ Em 2022-1
 
 <Div align="justify" >
@@ -122,6 +137,7 @@ No desenvolvimento do front-end utilizai HTML e CSS para desenvolvimento das pá
 
 <hr /> 
 
+<div name="2sem"></div>
 ### ⭐ Em 2022-2
 
 <Div align="justify" >
@@ -187,6 +203,7 @@ Neste projeto fiquei com o cargo de Desenvolvedore e responsável pela interface
 
 <hr /> 
 
+<div name="3sem"></div>
 ### ⭐ Em 2023-1
 
 <Div align="justify" >
@@ -261,6 +278,7 @@ Neste projeto fiquei com o cargo de Scrum Master e Desenvolvedora e responsável
 
 <hr /> 
 
+<div name="4sem"></div>
 ### ⭐ Em 2023-1
 
 <Div align="justify" >
