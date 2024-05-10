@@ -193,7 +193,7 @@ Neste projeto fiquei com o cargo de Desenvolvedore e responsável pela interface
 
 > [Link para a API do 3º Semetre](https://github.com/4DeskGroup/API-2023.1)
 
-O projeto integrador do segundo semestre do curso envolveu colaboração com cliente Track Cash. Seu propósito central consistia em uma aplicação web com objetivo de Desenvolver um sistema de Gerenciamento de Usuário, com tecnologia de micro serviços. Uma interface permitindo que os usúarios, sejam, criados, visualizados, editados e removidos.
+O projeto integrador do segundo semestre do curso envolveu colaboração com cliente Visiona. Seu propósito central consistia em uma aplicação web com objetivo de Desenvolver um sistema de Gerenciamento de Usuário, com tecnologia de micro serviços. Uma interface permitindo que os usúarios, sejam, criados, visualizados, editados e removidos.
 
 As páginas desenvolvidas no projeto como requisitos funcionais foram:
 - Tela Home, tela login, tela cadastro, tela dashboard com os usuários, lista com o CRUD dos usuários.
@@ -259,6 +259,82 @@ Neste projeto fiquei com o cargo de Scrum Master e Desenvolvedora e responsável
 * Trabalho em equipe
 > Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
 
+<hr /> 
+
+### ⭐ Em 2023-1
+
+<Div align="justify" >
+
+> [Link para a API do 4º Semetre](https://github.com/4DeskGroup/API-2023.2)
+
+O projeto integrador do segundo semestre do curso envolveu colaboração com cliente Greenneat. Seu propósito central consistia em uma aplicação web com objetivo de Criar uma plataforma que gerencie os créditos a serem usados como contrapartida no momento da coleta do material pelo parceiro da Greenneat nos estabelecimentos cadastrados. De forma que os créditos poderão ser usados posteriormente para compra dos saneantes na loja virtual..
+
+As páginas desenvolvidas no projeto como requisitos funcionais foram:
+- Tela Home, tela login, tela cadastro, tela dashboard com os usuários, tela comprar óleo, tela cadastrar óleo, tela de estoque de óleo, tela transferência de Greenneats, definição do valor do óleo, histórico de compra de óleo, tranferência de greenneats.
+</Div>
+
+### Tecnologias utilizadas
+
+ <details><summary>Tecnologias</summary>
+   
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  > Utilizado para o desenvolvimento do código de todo o projeto.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/> React
+ > Utilizamos React para o desenvolvimento da aplicação web.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript
+ > Utilizamos a linguagem JavaScript para o desenvolvimento da aplicação web.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/> Nodejs
+ > Utilizamos o NodeJs para ambiente de execução em uma máquina virtual própria para interpretar e executar os scripts.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/> Postgresql
+ > Utilizamos o Postgresql como banco de dados.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
+  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+
+ <img width="50 rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Microsoft_Planner_%282019%E2%80%93present%29.svg/768px-Microsoft_Planner_%282019%E2%80%93present%29.svg.png"/> Microsoft Planner
+  > Utilizamos o Microsoft Planner para organização de atividades e enntregas.
+
+
+ </details>
+
+### Contribuições pessoais
+
+<Div align="justify" >
+
+Neste projeto fiquei com o cargo de Scrum Master e Desenvolvedora e responsável pelo frontend da aplicação.. No desenvolvimento das telas utilizei React, JavaScript, NodeJs.
+
+### Resultado das páginas em front-end:
+ <img src='https://github.com/4DeskGroup/API-2023.2/raw/main/Projeto/Sprint%204/Gifs/DashBoardGIF.gif' width='65%' height='65%'>
+ <img src='https://github.com/4DeskGroup/API-2023.2/raw/main/Projeto/Sprint%203/Gifs/EmrpesaComrpaOleoParc.gif' width='65%' height='65%'>
+ 
+</div>
+
+### Hard skills
+* Criação de protótipos pelo Figma:
+> Sei fazer com autonomia.
+
+* Desenvolvimento de telas em aplicação web utilizando React e JavaScript:
+> Sei fazer com autonomia.
+
+### Soft skills
+* Organização 
+> Como Scrum Maaster, adiquiri por meio da gestão do projeto utilizando ferramenta Plannser para auxílio, gestão da equipe, separação de tarefas e controle de tempo e peso das atividades através do desenvolvimento do burndown e backlog.
+
+* Comunicação 
+> Alcancei por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e resoluções de conflitos e empecilhos no meio do projeto. Além de resolver conflitos aprentes na equipe.
+ 
+* Proatividade
+> Alcançada por meio de pesquisas sobre como usar e desenvolver com a tecnologias, pesquisas sobre como melhorar o desenvolvimento da equipe e metodologia SCRUM.
+
+* Trabalho em equipe
+> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
 
 
 
