@@ -65,6 +65,7 @@ Para complementar minha tragetória até o momento, iniciei o estágio na empres
 </Div>
 
 <div name="1sem"></div>
+
 ### ⭐ Em 2022-1
 
 <Div align="justify" >
@@ -138,6 +139,7 @@ No desenvolvimento do front-end utilizai HTML e CSS para desenvolvimento das pá
 <hr /> 
 
 <div name="2sem"></div>
+
 ### ⭐ Em 2022-2
 
 <Div align="justify" >
@@ -204,6 +206,7 @@ Neste projeto fiquei com o cargo de Desenvolvedore e responsável pela interface
 <hr /> 
 
 <div name="3sem"></div>
+
 ### ⭐ Em 2023-1
 
 <Div align="justify" >
@@ -279,6 +282,7 @@ Neste projeto fiquei com o cargo de Scrum Master e Desenvolvedora e responsável
 <hr /> 
 
 <div name="4sem"></div>
+
 ### ⭐ Em 2023-1
 
 <Div align="justify" >
