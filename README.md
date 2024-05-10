@@ -19,7 +19,7 @@ No ano de conclusão do curso Tecnico iniciei ensino superior na Faculdade de Te
 
 Com isso, ao longo dos semestres, até o semestre atual, assumi o cargo de Scrum Master, onde estive desenvolvendo habilidades de gestão de equipes, de projetos, tarefas e atividades, metodologia ágil além de poder melhorar minhas softskills como mediadora entre os membros da equipe em momentos de conflitos. Também me desenvolvi na área das tecnologias e linguegns de programação utilizadas ao longo de cada semestre. Com as apresentações do API (Aprendizagem por Projetos Integrados) pude aprimorar oratória e apresentação em público.
 
-Para complementar minha tragetória até o momento, iniciei o estágio na empresa ProNext, onde atuo na área de PPM (Project Portfolio Management), onde tenho o contato direto com gestão de projetos, esperiência do usuário UI/UX e planejamento.
+Para complementar minha tragetória até o momento, iniciei o estágio na empresa ProNext, onde atuo na área de PPM (Project Portfolio Management), onde tenho o contato direto com gestão de projetos, esperiência do usuário UI/UX, planejamento, desenvolvimento low-code, armazenamento de dados, criação de automação de fluxos e lógica de programação.
 
 </Div>
 
