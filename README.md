@@ -294,7 +294,7 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
 <Div align="justify" >
 
 Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master fiz o planejamento da sprint e atividades através do Microsoft Planner e o gráfico Burndown e com planilha em Excel. Juntoamente com time de desenvolvedores, organizei e distribui as tarefas de acordo com o necessário, além de traçar o plano de como deveriámos seguir desenvolvendo as sprints.
-No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para desenvolvimento dos componentes, principalmente o gráfico na tela de dashboard e as páginas web do projeto, React para framework React auxiliando na construção e estrutura da interface.
+No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para desenvolvimento dos componentes, como sidebar com responsividade e as páginas web do projeto, React para framework React auxiliando na construção e estrutura da interface.
 
 ### Resultado das páginas em front-end:
  <img src='https://github.com/4DeskGroup/API-2023.2/raw/main/Projeto/Sprint%204/Gifs/DashBoardGIF.gif' width='65%' height='65%'>
