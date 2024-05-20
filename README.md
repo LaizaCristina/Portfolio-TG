@@ -208,7 +208,7 @@ Neste projeto fiquei com o cargo de Desenvolvedore e responsável pela interface
 
 > [Link para a API do 3º Semetre](https://github.com/4DeskGroup/API-2023.1)
 
-O projeto integrador do segundo semestre do curso envolveu colaboração com cliente Visiona. Seu propósito central consistia em uma aplicação web com objetivo de Desenvolver um sistema de Gerenciamento de Usuário, com tecnologia de micro serviços. Uma interface permitindo que os usúarios, sejam, criados, visualizados, editados e removidos.
+O projeto integrador do terceiro semestre do curso envolveu colaboração com cliente Visiona. Seu propósito central consistia em uma aplicação web com objetivo de Desenvolver um sistema de Gerenciamento de Usuário, com tecnologia de micro serviços. Uma interface permitindo que os usúarios, sejam, criados, visualizados, editados e removidos.
 
 As páginas desenvolvidas no projeto como requisitos funcionais foram:
 - Tela Home, tela login, tela cadastro, tela dashboard com os usuários, lista com o CRUD dos usuários.
@@ -284,7 +284,7 @@ No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para des
 
 > [Link para a API do 4º Semetre](https://github.com/4DeskGroup/API-2023.2)
 
-O projeto integrador do segundo semestre do curso envolveu colaboração com cliente Greenneat. Seu propósito central consistia em uma aplicação web com objetivo de Criar uma plataforma que gerencie os créditos a serem usados como contrapartida no momento da coleta do material pelo parceiro da Greenneat nos estabelecimentos cadastrados. De forma que os créditos poderão ser usados posteriormente para compra dos saneantes na loja virtual..
+O projeto integrador do quarto semestre do curso envolveu colaboração com cliente Greenneat. Seu propósito central consistia em uma aplicação web com objetivo de Criar uma plataforma que gerencie os créditos a serem usados como contrapartida no momento da coleta do material pelo parceiro da Greenneat nos estabelecimentos cadastrados. De forma que os créditos poderão ser usados posteriormente para compra dos saneantes na loja virtual..
 
 As páginas desenvolvidas no projeto como requisitos funcionais foram:
 - Tela Home, tela login, tela cadastro, tela dashboard com os usuários, tela comprar óleo, tela cadastrar óleo, tela de estoque de óleo, tela transferência de Greenneats, definição do valor do óleo, histórico de compra de óleo, tranferência de greenneats.
@@ -295,7 +295,7 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
 <Div align="justify" >
 
 Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master fiz o planejamento da sprint e atividades através do Microsoft Planner e o gráfico Burndown e com planilha em Excel. Juntoamente com time de desenvolvedores, organizei e distribui as tarefas de acordo com o necessário, além de traçar o plano de como deveriámos seguir desenvolvendo as sprints.
-No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para desenvolvimento dos componentes, como gráficos na tela dashboard, sidebar com responsividade e as páginas web do projeto, React para framework React auxiliando na construção e estrutura da interface.
+No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para desenvolvimento dos componentes, como gráficos na tela dashboard, sidebar com responsividade e as páginas web do projeto, React para framework auxiliando na construção e estrutura da interface.
 
 ### Resultado das páginas em front-end:
  <img src='https://github.com/4DeskGroup/API-2023.2/raw/main/Projeto/Sprint%204/Gifs/DashBoardGIF.gif' width='65%' height='65%'>
@@ -357,12 +357,12 @@ No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para des
 
 <Div align="justify" >
 
-> [Link para a API do 4º Semetre](https://github.com/4DeskGroup/API-2024.1)
+> [Link para a API do 5º Semetre](https://github.com/4DeskGroup/API-2024.1)
 
-O projeto integrador do segundo semestre do curso envolveu colaboração com cliente Greenneat. Seu propósito central consistia em uma aplicação web com objetivo de Criar uma plataforma que gerencie os créditos a serem usados como contrapartida no momento da coleta do material pelo parceiro da Greenneat nos estabelecimentos cadastrados. De forma que os créditos poderão ser usados posteriormente para compra dos saneantes na loja virtual..
+O projeto integrador do quinto semestre do curso envolveu colaboração com cliente Oracle. Seu propósito central consistia em desenvolver um sistema de gestão de parceiros para a Oracle. Este sistema será responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes – em plataforma mobile
 
 As páginas desenvolvidas no projeto como requisitos funcionais foram:
-- Tela Home, tela login, tela cadastro, tela dashboard com os usuários, tela comprar óleo, tela cadastrar óleo, tela de estoque de óleo, tela transferência de Greenneats, definição do valor do óleo, histórico de compra de óleo, tranferência de greenneats.
+- Tela login, tela cadastro de parceiros e consultores de alianças, tela dashboard com os usuários e o desempenho dos parceiros por Tracks, tela home para administrador e consultor de alianças.
 </Div>
 
 ### Contribuições pessoais
@@ -370,11 +370,11 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
 <Div align="justify" >
 
 Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master fiz o planejamento da sprint e atividades através do Microsoft Planner e o gráfico Burndown e com planilha em Excel. Juntoamente com time de desenvolvedores, organizei e distribui as tarefas de acordo com o necessário, além de traçar o plano de como deveriámos seguir desenvolvendo as sprints.
-No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para desenvolvimento dos componentes, como gráficos na tela dashboard, sidebar com responsividade e as páginas web do projeto, React para framework React auxiliando na construção e estrutura da interface.
+No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para desenvolvimento dos componentes, como gráficos na tela dashboar e as páginas web do projeto, React-Native para framework auxiliando na construção e estrutura da interface.
 
 ### Resultado das páginas em front-end:
- <img src='https://github.com/4DeskGroup/API-2023.2/raw/main/Projeto/Sprint%204/Gifs/DashBoardGIF.gif' width='65%' height='65%'>
- <img src='https://github.com/4DeskGroup/API-2023.2/raw/main/Projeto/Sprint%203/Gifs/EmrpesaComrpaOleoParc.gif' width='65%' height='65%'>
+ <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/dashboards.gif' width='65%' height='65%'>
+ <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/adicionar_track%5D.gif' width='65%' height='65%'>
  
 </div>
 
@@ -397,14 +397,14 @@ No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para des
  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/> Nodejs
  > Utilizamos o NodeJs para ambiente de execução em uma máquina virtual própria para interpretar e executar os scripts.
 
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/> Postgresql
- > Utilizamos o Postgresql como banco de dados.
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/> Mongodb
+ > Utilizamos o Mongodb como banco de dados.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
 
- <img width="50 rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Microsoft_Planner_%282019%E2%80%93present%29.svg/768px-Microsoft_Planner_%282019%E2%80%93present%29.svg.png"/> Microsoft Planner
-  > Utilizamos o Microsoft Planner para organização de atividades e enntregas.
+ <img width="50 rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Microsoft_Planner_%282019%E2%80%93present%29.svg/768px-Microsoft_Planner_%282019%E2%80%93present%29.svg.png"/> Microsoft Excel
+  > Utilizamos o Microsoft Excel para organização de atividades e enntregas.
 
 
  </details>
