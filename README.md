@@ -373,8 +373,8 @@ Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end d
 No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para desenvolvimento dos componentes, como gráficos na tela dashboar e as páginas web do projeto, React-Native para framework auxiliando na construção e estrutura da interface.
 
 ### Resultado das páginas em front-end:
- <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/dashboards.gif' width='65%' height='65%'>
- <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/adicionar_track%5D.gif' width='65%' height='65%'>
+ <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/dashboards.gif'  height='400'>
+ <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/adicionar_track%5D.gif' height='400'>
  
 </div>
 
@@ -403,7 +403,7 @@ No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para des
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
 
- <img width="50 rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Microsoft_Planner_%282019%E2%80%93present%29.svg/768px-Microsoft_Planner_%282019%E2%80%93present%29.svg.png"/> Microsoft Excel
+ <img width="50 rem" src="https://github.com/LaizaCristina/Portifolio-TG/blob/main/images/microsoft_office_excel_logo_icon_145720.png"/> Microsoft Excel
   > Utilizamos o Microsoft Excel para organização de atividades e enntregas.
 
 
