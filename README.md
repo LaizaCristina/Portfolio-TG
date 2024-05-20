@@ -369,7 +369,7 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
 
 <Div align="justify" >
 
-Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master fiz o planejamento da sprint e atividades através do Microsoft Planner e o gráfico Burndown e com planilha em Excel. Juntoamente com time de desenvolvedores, organizei e distribui as tarefas de acordo com o necessário, além de traçar o plano de como deveriámos seguir desenvolvendo as sprints.
+Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master fiz o planejamento da sprint e atividades, gráfico Burndown através do Microsoft Excel. Juntoamente com time de desenvolvedores, organizei e distribui as tarefas de acordo com o necessário, além de traçar o plano de como deveriámos seguir desenvolvendo as sprints.
 No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para desenvolvimento dos componentes, como gráficos na tela dashboar e as páginas web do projeto, React-Native para framework auxiliando na construção e estrutura da interface.
 
 ### Resultado das páginas em front-end:
