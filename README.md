@@ -79,7 +79,7 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
 <Div align="justify" >
 
 ### Contribuições pessoais
-Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master fiz o planejamento da sprint através do gráfico Burndown e com planilha em Excel. Juntoamente com time de desenvolvedores, organizei e distribui as tarefas de acordo com o necessário, além de traçar o plano de como deveriámos seguir desenvolvendo as sprints.
+Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master fiz o planejamento da sprint através do gráfico Burndown e com planilha em Excel. Juntamente com time de desenvolvedores, organizei e distribui as tarefas de acordo com o necessário, além de traçar o plano de como deveriámos seguir desenvolvendo as sprints.
 No desenvolvimento do front-end utilizai HTML e CSS para desenvolvimento das páginas webs do projeto, utilizei o framework Bootstrap para melhor auxiliar na construção e estrutura da interface.
 
 ### Resultado das páginas em front-end:
@@ -88,8 +88,6 @@ No desenvolvimento do front-end utilizai HTML e CSS para desenvolvimento das pá
 </div>
 
 ### Tecnologias utilizadas
-
- <details><summary>Tecnologias</summary>
    
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
   > Utilizado para desenvolver o protótipo apresentado ao cliente.
@@ -108,8 +106,6 @@ No desenvolvimento do front-end utilizai HTML e CSS para desenvolvimento das pá
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python 
   > Utilizamos o Python para o 'web scraping' em sites de vaga de empregos e cursos, extraindo informações como título da vaga, localização, empresa, salário e o link que redirecionava para a página da vaga.
-
- </details>
 
 ### Hard skills
 * Criação de protótipos pelo Figma:
@@ -161,8 +157,6 @@ Neste projeto fiquei com o cargo de Desenvolvedore e responsável pela interface
 
 ### Tecnologias utilizadas
 
- <details><summary>Tecnologias</summary>
-   
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
   > Utilizado para desenvolver o protótipo apresentado ao cliente.
   
@@ -175,8 +169,6 @@ Neste projeto fiquei com o cargo de Desenvolvedore e responsável pela interface
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
 
-
- </details>
 
 ### Hard skills
 * Criação de protótipos pelo Figma:
@@ -217,7 +209,7 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
 ### Contribuições pessoais
 
 <Div align="justify" >
-Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master fiz o planejamento da sprint através do gráfico Burndown e com planilha em Excel. Juntoamente com time de desenvolvedores, organizei e distribui as tarefas de acordo com o necessário, além de traçar o plano de como deveriámos seguir desenvolvendo as sprints.
+Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master fiz o planejamento da sprint através do gráfico Burndown e com planilha em Excel. Juntamente com time de desenvolvedores, organizei e distribui as tarefas de acordo com o necessário, além de traçar o plano de como deveriámos seguir desenvolvendo as sprints.
 No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para desenvolvimento dos componentes, principalmente o gráfico na tela de dashboard e as páginas web do projeto, React para framework React auxiliando na construção e estrutura da interface.
 
 ### Resultado das páginas em front-end:
@@ -228,8 +220,6 @@ No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para des
 
 ### Tecnologias utilizadas
 
- <details><summary>Tecnologias</summary>
-   
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
   > Utilizado para desenvolver o protótipo apresentado ao cliente.
 
@@ -251,8 +241,6 @@ No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para des
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
 
-
- </details>
 
 ### Hard skills
 * Criação de protótipos pelo Figma:
@@ -294,7 +282,7 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
 
 <Div align="justify" >
 
-Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master fiz o planejamento da sprint e atividades através do Microsoft Planner e o gráfico Burndown e com planilha em Excel. Juntoamente com time de desenvolvedores, organizei e distribui as tarefas de acordo com o necessário, além de traçar o plano de como deveriámos seguir desenvolvendo as sprints.
+Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master fiz o planejamento da sprint e atividades através do Microsoft Planner e o gráfico Burndown e com planilha em Excel. Juntamente com time de desenvolvedores, organizei e distribui as tarefas de acordo com o necessário, além de traçar o plano de como deveriámos seguir desenvolvendo as sprints.
 No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para desenvolvimento dos componentes, como gráficos na tela dashboard, sidebar com responsividade e as páginas web do projeto, React para framework auxiliando na construção e estrutura da interface.
 
 ### Resultado das páginas em front-end:
@@ -304,8 +292,6 @@ No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para des
 </div>
 
 ### Tecnologias utilizadas
-
- <details><summary>Tecnologias</summary>
    
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
   > Utilizado para desenvolver o protótipo apresentado ao cliente.
@@ -331,8 +317,6 @@ No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para des
  <img width="50 rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Microsoft_Planner_%282019%E2%80%93present%29.svg/768px-Microsoft_Planner_%282019%E2%80%93present%29.svg.png"/> Microsoft Planner
   > Utilizamos o Microsoft Planner para organização de atividades e enntregas.
 
-
- </details>
 
 ### Hard skills
 * Criação de protótipos pelo Figma:
@@ -369,7 +353,7 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
 
 <Div align="justify" >
 
-Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master fiz o planejamento da sprint e atividades, gráfico Burndown através do Microsoft Excel. Juntoamente com time de desenvolvedores, organizei e distribui as tarefas de acordo com o necessário, além de traçar o plano de como deveriámos seguir desenvolvendo as sprints.
+Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master fiz o planejamento da sprint e atividades, gráfico Burndown através do Microsoft Excel. Juntamente com time de desenvolvedores, organizei e distribui as tarefas de acordo com o necessário, além de traçar o plano de como deveriámos seguir desenvolvendo as sprints.
 No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para desenvolvimento dos componentes, como gráficos na tela dashboar e as páginas web do projeto, React-Native para framework auxiliando na construção e estrutura da interface.
 
 ### Resultado das páginas em front-end:
