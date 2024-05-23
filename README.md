@@ -363,8 +363,6 @@ No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para des
 </div>
 
 ### Tecnologias utilizadas
-
- <details><summary>Tecnologias</summary>
    
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
   > Utilizado para desenvolver o protótipo apresentado ao cliente.
@@ -389,9 +387,6 @@ No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para des
 
  <img width="50 rem" src="https://github.com/LaizaCristina/Portifolio-TG/blob/main/images/microsoft_office_excel_logo_icon_145720.png"/> Microsoft Excel
   > Utilizamos o Microsoft Excel para organização de atividades e enntregas.
-
-
- </details>
 
 ### Hard skills
 * Criação de protótipos pelo Figma:
