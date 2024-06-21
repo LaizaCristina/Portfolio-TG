@@ -12,14 +12,14 @@
 
 <Div align="justify" >
 
-Sou estudante do 5º semestre do curso Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal em São José dos Campos. No ensino médio despertei o interesse pela área de tecnologia e busquei aprimorar meus conhecimentos por meio de cursos técnicos.
+Sou estudante do 5º semestre do curso Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal em São José dos Campos. No ensino médio, despertei o interesse pela área de tecnologia e busquei aprimorar meus conhecimentos por meio de cursos técnicos.
 
-Durante o ensino médio, o qual cursei na Escola Estadual José Mariotto Ferreira Major Aviador junto com o curso de Aprendizagem Industrial de Mecânico de Usinagem no Serviço Nacional de Aprendizagem Industrial (SENAI), onde tive uma base sólida de softskills voltada a organização, respeito com os professores e colegas de classe e principalmente a disciplina. No SENAI também tivee contato com programação de CNC. Depois iniciei curso Técnico de Automação Industrial no Instituto Federal de São Paulo (IFSP) onde pude ter mais contato e desenvolver mais com a programação em arduinos, linguagem C++, CLP e CNC. 
-No ano de conclusão do curso Tecnico iniciei ensino superior na Faculdade de Tecnologia (FATEC) onde pude ter contato mais direto com área da tecnologia e programação.
+Durante o ensino médio, o qual cursei na Escola Estadual José Mariotto Ferreira Major Aviador, junto com o curso de Aprendizagem Industrial de Mecânico de Usinagem no Serviço Nacional de Aprendizagem Industrial (SENAI), desenvolvi uma base sólida de soft skills voltada para organização, respeito com os professores e colegas de classe, e principalmente disciplina. No SENAI, também tive contato com programação de CNC. Depois, iniciei o curso Técnico de Automação Industrial no Instituto Federal de São Paulo (IFSP), onde pude ter mais contato e desenvolver mais habilidades em programação com Arduinos, linguagem C++, CLP e CNC.
+No ano de conclusão do curso técnico, iniciei o ensino superior na Faculdade de Tecnologia (FATEC), onde pude ter contato mais direto com a área de tecnologia e programação.
 
-Com isso, ao longo dos semestres, até o semestre atual, assumi o cargo de Scrum Master, onde estive desenvolvendo habilidades de gestão de equipes, de projetos, tarefas e atividades, metodologia ágil além de poder melhorar minhas softskills como mediadora entre os membros da equipe em momentos de conflitos. Também me desenvolvi na área das tecnologias e linguegns de programação utilizadas ao longo de cada semestre. Com as apresentações do API (Aprendizagem por Projetos Integrados) pude aprimorar oratória e apresentação em público.
+Ao longo dos semestres, até o semestre atual, assumi o cargo de Scrum Master, onde desenvolvi habilidades de gestão de equipes, projetos, tarefas e atividades, além de metodologia ágil. Também pude melhorar minhas soft skills como mediadora entre os membros da equipe em momentos de conflitos. Desenvolvi-me na área das tecnologias e linguagens de programação utilizadas ao longo de cada semestre. Com as apresentações do API (Aprendizagem por Projetos Integrados), pude aprimorar oratória e apresentação em público.
 
-Para complementar minha tragetória até o momento, iniciei o estágio na empresa ProNext, onde atuo na área de PPM (Project Portfolio Management), onde tenho o contato direto com gestão de projetos, esperiência do usuário UI/UX, planejamento, desenvolvimento low-code, armazenamento de dados, criação de automação de fluxos e lógica de programação.
+Para complementar minha trajetória até o momento, iniciei o estágio na empresa ProNext, onde atuo na área de PPM (Project Portfolio Management), tendo contato direto com gestão de projetos, experiência do usuário UI/UX, planejamento, desenvolvimento low-code, armazenamento de dados, criação de automação de fluxos e lógica de programação.
 
 </Div>
 
@@ -70,7 +70,7 @@ Para complementar minha tragetória até o momento, iniciei o estágio na empres
 
 > [Link para a API do 1º Semetre](https://github.com/4DeskGroup/API-2022.1)
 
-O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia em um site web que listava vagas de empregos e cursos na área de tecnologia. Para alcançar esse objetivo, foi necessário a criação de um site e o desenvolvimento de um programa em Python projetado para a raspagem de dados para puxar as vagas de emprego e cursos de especialização em tecnologia disponiveis.
+O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia em um site web que listava vagas de empregos e cursos na área de tecnologia. Para alcançar esse objetivo, foi necessário a criação de um site e o desenvolvimento de um programa em Python projetado para a raspagem de dados para puxar as vagas de emprego e cursos de especialização em tecnologia disponíveis.
 
 As páginas desenvolvidas no projeto como requisitos funcionais foram:
 - Página Home, Página de Cursos e Certificações, Página de Vagas de Emprego, Página de Métricas, Página de Localização
@@ -79,8 +79,8 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
 <Div align="justify" >
 
 ### Contribuições pessoais
-Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master fiz o planejamento da sprint através do gráfico Burndown e com planilha em Excel. Juntamente com time de desenvolvedores, organizei e distribui as tarefas de acordo com o necessário, além de traçar o plano de como deveriámos seguir desenvolvendo as sprints.
-No desenvolvimento do front-end utilizai HTML e CSS para desenvolvimento das páginas webs do projeto, utilizei o framework Bootstrap para melhor auxiliar na construção e estrutura da interface.
+Neste projeto, assumi o cargo de Scrum Master e fui responsável pelo front-end do projeto. Como Scrum Master, fiz o planejamento da sprint através do gráfico Burndown e com planilha em Excel. Juntamente com o time de desenvolvedores, organizei e distribuí as tarefas de acordo com o necessário, além de traçar o plano de como deveríamos seguir desenvolvendo as sprints.
+No desenvolvimento do front-end, utilizei HTML e CSS para o desenvolvimento das páginas web do projeto e o framework Bootstrap para auxiliar na construção e estrutura da interface.
 
 ### Resultado das páginas em front-end:
  <img src='https://user-images.githubusercontent.com/100849359/172060844-e01a5767-ed41-46ba-90f4-32270e1b5a77.gif' width='65%' height='65%'>
@@ -116,16 +116,16 @@ No desenvolvimento do front-end utilizai HTML e CSS para desenvolvimento das pá
 
 ### Soft skills
 * Organização 
-> Como Scrum Maaster, adiquiri por meio da gestão do projeto, gestão da equipe, separação de tarefas e controle de tempo e peso das atividades através do desenvolvimento do burndown e backlog.
+> Desenvolvi minha habilidade de organização através da gestão do projeto e da equipe. Foi essencial para a separação de tarefas, controle de tempo e acompanhamento do progresso através de gráficos Burndown e do backlog.
 
 * Comunicação 
-> Como Scrum Maaster, alcancei por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e resoluções de conflitos e empecilhos no meio do projeto.
+> Como Scrum Master, melhorei minhas habilidades de comunicação ao interagir com a equipe durante reuniões diárias, alinhando tarefas, resolvendo conflitos e eliminando obstáculos no desenvolvimento do projeto.
  
 * Proatividade
-> Alcançada por meio de pesquisas sobre como usar e desenvolver com a tecnologias, pesquisas sobre como melhorar o desenvolvimento da equipe e metodologia SCRUM.
+> Demonstrei proatividade ao buscar novas tecnologias e metodologias para aprimorar o desenvolvimento da equipe, além de pesquisar continuamente sobre a aplicação da metodologia SCRUM.
 
 * Trabalho em equipe
-> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
+> Fortaleci minha capacidade de colaborar efetivamente com os colegas, compartilhando ideias e trabalhando em conjunto para alcançar os objetivos do projeto.
 
 <hr /> 
 
@@ -137,7 +137,7 @@ No desenvolvimento do front-end utilizai HTML e CSS para desenvolvimento das pá
 
 > [Link para a API do 2º Semetre](https://github.com/4DeskGroup/API-2022.2)
 
-O projeto integrador do segundo semestre do curso envolveu colaboração com cliente Track Cash. Seu propósito central consistia em uma aplicação desktop com objetivo de integração de registros de canais de vendas; em lojas físicas ou online; com o cliente que quer acessar a plataforma, afim de interagir as informações de vendas desses canais. Para alcançar esse objetivo, foi necessário a criação de um software desktop intalável.
+O projeto integrador do segundo semestre do curso envolveu colaboração com o cliente Track Cash. Seu propósito central consistia em uma aplicação desktop com o objetivo de integrar registros de canais de vendas, tanto em lojas físicas quanto online, com o cliente que quer acessar a plataforma para interagir com as informações de vendas desses canais. Para alcançar esse objetivo, foi necessário a criação de um software desktop instalável.
 
 As páginas desenvolvidas no projeto como requisitos funcionais foram:
 - Tela Home, tela login, tela cadastro, tela cadastrar canal de vendas, tela configuração ativas, tela configurações de canais, Canais ativos, tela dúvidas, tela desativar atividade de usuário, tela alterar senha.
@@ -147,7 +147,7 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
 
 <Div align="justify" >
 
-Neste projeto fiquei com o cargo de Desenvolvedore e responsável pela interface, GUI, do projeto. No desenvolvimento da GUI utilizei código Java, com a interface e método de drag and drop disponível no Net Beans.
+Neste projeto, fiquei com o cargo de Desenvolvedor e responsável pela interface GUI do projeto. No desenvolvimento da GUI, utilizei código Java, com a interface e método de drag and drop disponíveis no NetBeans.
 
 ### Resultado das telas:
  <img src='https://github.com/4DeskGroup/API-2022.2/raw/main/doc/sprint%204/gifs/Politica%20de%20Privacidade%20e%20Termos%20de%20Uso.gif' width='65%' height='65%'>
@@ -178,18 +178,14 @@ Neste projeto fiquei com o cargo de Desenvolvedore e responsável pela interface
 > Sei fazer com pesquisa e ajuda.
 
 ### Soft skills
-* Organização 
-> Adiquiri por meio da gestão do projeto, gestão da equipe, separação de tarefas e controle de tempo e peso das atividades através do desenvolvimento do burndown e backlog.
+* Resolução de conflitos
+> Aprimorei minhas habilidades de resolução de conflitos ao lidar com divergências dentro da equipe, mediando discussões e encontrando soluções que beneficiassem todos os envolvidos.
 
-* Comunicação 
-> Alcancei por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e resoluções de conflitos e empecilhos no meio do projeto. Além de resolver conflitos aprentes na equipe.
+* Empatia
+> Pratiquei empatia ao considerar as perspectivas e necessidades dos membros da equipe, criando um ambiente colaborativo e de apoio mútuo.
  
-* Proatividade
-> Alcançada por meio de pesquisas sobre como usar e desenvolver com a tecnologias, pesquisas sobre como melhorar o desenvolvimento da equipe e metodologia SCRUM.
-
-* Trabalho em equipe
-> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
-
+* Resolução de problemas
+> Aprimorei minha habilidade de resolução de problemas ao identificar e mitigar riscos, encontrando soluções eficazes para os obstáculos enfrentados durante o desenvolvimento do projeto.
 <hr /> 
 
 <div name="3sem"></div>
@@ -200,7 +196,7 @@ Neste projeto fiquei com o cargo de Desenvolvedore e responsável pela interface
 
 > [Link para a API do 3º Semetre](https://github.com/4DeskGroup/API-2023.1)
 
-O projeto integrador do terceiro semestre do curso envolveu colaboração com cliente Visiona. Seu propósito central consistia em uma aplicação web com objetivo de Desenvolver um sistema de Gerenciamento de Usuário, com tecnologia de micro serviços. Uma interface permitindo que os usúarios, sejam, criados, visualizados, editados e removidos.
+O projeto integrador do terceiro semestre do curso envolveu colaboração com o cliente Visiona. Seu propósito central consistia em uma aplicação web para desenvolver um sistema de Gerenciamento de Usuário, utilizando tecnologia de micro serviços. A interface permitia a criação, visualização, edição e remoção de usuários.
 
 As páginas desenvolvidas no projeto como requisitos funcionais foram:
 - Tela Home, tela login, tela cadastro, tela dashboard com os usuários, lista com o CRUD dos usuários.
@@ -209,8 +205,9 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
 ### Contribuições pessoais
 
 <Div align="justify" >
-Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master fiz o planejamento da sprint através do gráfico Burndown e com planilha em Excel. Juntamente com time de desenvolvedores, organizei e distribui as tarefas de acordo com o necessário, além de traçar o plano de como deveriámos seguir desenvolvendo as sprints.
-No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para desenvolvimento dos componentes, principalmente o gráfico na tela de dashboard e as páginas web do projeto, React para framework React auxiliando na construção e estrutura da interface.
+Neste projeto, assumi o cargo de Scrum Master e fui responsável pelo front-end. Como Scrum Master, planejei as sprints usando gráficos de Burndown e planilhas no Excel. Em conjunto com a equipe de desenvolvedores, organizei e distribuí as tarefas conforme necessário, além de traçar o plano para o desenvolvimento das sprints.
+
+No desenvolvimento do front-end, utilizei Node.js e JavaScript para criar componentes, especialmente gráficos na tela do dashboard, e utilizei React como framework para auxiliar na estrutura e construção da interface.
 
 ### Resultado das páginas em front-end:
  <img src='https://github.com/4DeskGroup/API-2023.1/raw/main/doc/sprint%203/gifs/8_dashboard.gif?raw=true' width='65%' height='65%'>
@@ -250,17 +247,14 @@ No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para des
 > Sei fazer com autonomia.
 
 ### Soft skills
-* Organização 
-> Como Scrum Maaster, adiquiri por meio da gestão do projeto, gestão da equipe, separação de tarefas e controle de tempo e peso das atividades através do desenvolvimento do burndown e backlog.
+* Adaptabilidade
+> Aumentei minha adaptabilidade ao responder rapidamente às mudanças e novos desafios, novos mebros na equipe, ajustando estratégias e métodos de trabalho conforme necessário.
 
-* Comunicação 
-> Alcancei por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e resoluções de conflitos e empecilhos no meio do projeto. Além de resolver conflitos aprentes na equipe.
- 
-* Proatividade
-> Alcançada por meio de pesquisas sobre como usar e desenvolver com a tecnologias, pesquisas sobre como melhorar o desenvolvimento da equipe e metodologia SCRUM.
+* Gestão de Mudanças
+> Desenvolvi habilidades de gestão de mudanças ao integrar novos membros na equipe e resolver problemas relacionados à tecnologia.
 
-* Trabalho em equipe
-> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
+* Resolução de Problemas
+> Aperfeiçoei a resolução de problemas ao enfrentar desafios técnicos e encontrar soluções eficazes para superá-los.
 
 <hr /> 
 
@@ -272,18 +266,19 @@ No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para des
 
 > [Link para a API do 4º Semetre](https://github.com/4DeskGroup/API-2023.2)
 
-O projeto integrador do quarto semestre do curso envolveu colaboração com cliente Greenneat. Seu propósito central consistia em uma aplicação web com objetivo de Criar uma plataforma que gerencie os créditos a serem usados como contrapartida no momento da coleta do material pelo parceiro da Greenneat nos estabelecimentos cadastrados. De forma que os créditos poderão ser usados posteriormente para compra dos saneantes na loja virtual..
+O projeto integrador do quarto semestre do curso envolveu colaboração com o cliente Greenneat. Seu propósito central consistia em uma aplicação web para criar uma plataforma de gestão de créditos a serem utilizados como contrapartida no momento da coleta de material pelos parceiros da Greenneat nos estabelecimentos cadastrados. Os créditos poderiam ser usados posteriormente para compra de produtos na loja virtual.
 
 As páginas desenvolvidas no projeto como requisitos funcionais foram:
-- Tela Home, tela login, tela cadastro, tela dashboard com os usuários, tela comprar óleo, tela cadastrar óleo, tela de estoque de óleo, tela transferência de Greenneats, definição do valor do óleo, histórico de compra de óleo, tranferência de greenneats.
+- Tela Home, tela de login, tela de cadastro, tela dashboard com os usuários, tela para compra de óleo, tela para cadastro de óleo, tela de estoque de óleo, tela de transferência de Greenneats, definição do valor do óleo, histórico de compras de óleo, transferência de Greenneats.
 </Div>
 
 ### Contribuições pessoais
 
 <Div align="justify" >
 
-Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master fiz o planejamento da sprint e atividades através do Microsoft Planner e o gráfico Burndown e com planilha em Excel. Juntamente com time de desenvolvedores, organizei e distribui as tarefas de acordo com o necessário, além de traçar o plano de como deveriámos seguir desenvolvendo as sprints.
-No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para desenvolvimento dos componentes, como gráficos na tela dashboard, sidebar com responsividade e as páginas web do projeto, React para framework auxiliando na construção e estrutura da interface.
+Neste projeto, assumi o cargo de Scrum Master e fui responsável pelo front-end. Como Scrum Master, planejei as sprints e atividades utilizando o Microsoft Planner, gráficos de Burndown e planilhas no Excel. Em conjunto com a equipe de desenvolvedores, organizei e distribuí as tarefas conforme necessário, além de traçar o plano para o desenvolvimento das sprints.
+
+No desenvolvimento do front-end, utilizei Node.js, JavaScript para desenvolvimento dos componentes como gráficos na tela do dashboard, sidebar com responsividade, e utilizei React para framework auxiliar na construção e estrutura da interface.
 
 ### Resultado das páginas em front-end:
  <img src='https://github.com/4DeskGroup/API-2023.2/raw/main/Projeto/Sprint%204/Gifs/DashBoardGIF.gif' width='65%' height='65%'>
@@ -326,14 +321,17 @@ No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para des
 > Sei fazer com autonomia.
 
 ### Soft skills
-* Organização 
-> Como Scrum Maaster, adiquiri por meio da gestão do projeto utilizando ferramenta Plannser para auxílio, gestão da equipe, separação de tarefas e controle de tempo e peso das atividades através do desenvolvimento do burndown e backlog.
+* Pensamento crítico
+> Desenvolvi o pensamento crítico ao analisar dados e feedbacks do projeto fornecidos pelo cliente, tomando decisões informadas para ajustar o rumo das atividades e melhorar os resultados.
 
-* Comunicação 
-> Alcancei por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e resoluções de conflitos e empecilhos no meio do projeto. Além de resolver conflitos aprentes na equipe.
+* Iniciativa
+> Fortaleceu-se a minha iniciativa ao assumir responsabilidades adicionais e propor melhorias no processo de desenvolvimento, buscando constantemente elevar a qualidade do trabalho da equipe.
  
-* Proatividade
-> Alcançada por meio de pesquisas sobre como usar e desenvolver com a tecnologias, pesquisas sobre como melhorar o desenvolvimento da equipe e metodologia SCRUM.
+* Liderança
+> Exercitei a liderança ao coordenar atividades específicas dentro da equipe, motivando os membros e promovendo um ambiente de trabalho positivo.
+
+* Apoio
+> Desenvolvi habilidades de apoio ao ajudar e orientar os membros da equipe a melhorarem suas habilidades.
 
 <div name="5sem"></div>
 
@@ -343,18 +341,17 @@ No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para des
 
 > [Link para a API do 5º Semetre](https://github.com/4DeskGroup/API-2024.1)
 
-O projeto integrador do quinto semestre do curso envolveu colaboração com cliente Oracle. Seu propósito central consistia em desenvolver um sistema de gestão de parceiros para a Oracle. Este sistema será responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes – em plataforma mobile
+O projeto integrador do quinto semestre do curso envolveu colaboração com cliente Oracle. Seu propósito central consistia em desenvolver um sistema de gestão de parceiros para a Oracle. Este sistema seria responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes – em plataforma mobile.
 
 As páginas desenvolvidas no projeto como requisitos funcionais foram:
-- Tela login, tela cadastro de parceiros e consultores de alianças, tela dashboard com os usuários e o desempenho dos parceiros por Tracks, tela home para administrador e consultor de alianças.
+- Tela de login, tela de cadastro de parceiros e consultores de alianças, tela de dashboard com os usuários e o desempenho dos parceiros por Tracks, tela inicial para administrador e consultor de alianças.
 </Div>
 
 ### Contribuições pessoais
 
 <Div align="justify" >
 
-Neste projeto fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master fiz o planejamento da sprint e atividades, gráfico Burndown através do Microsoft Excel. Juntamente com time de desenvolvedores, organizei e distribui as tarefas de acordo com o necessário, além de traçar o plano de como deveriámos seguir desenvolvendo as sprints.
-No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para desenvolvimento dos componentes, como gráficos na tela dashboard e menus do projeto, React-Native para framework auxiliando na construção e estrutura da interface.
+Neste projeto, fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master, fiz o planejamento da sprint e das atividades, utilizando gráfico Burndown através do Microsoft Excel. Juntamente com o time de desenvolvedores, organizei e distribuí as tarefas de acordo com o necessário, além de traçar o plano de como deveríamos seguir desenvolvendo as sprints. No desenvolvimento do front-end, utilizei tecnologias NodeJs e JavaScript para desenvolvimento dos componentes, como gráficos na tela de dashboard e menus do projeto, utilizando React-Native como framework para auxiliar na construção e estrutura da interface.
 
 ### Resultado das páginas em front-end:
  <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/dashboards.gif'  height='400'>
@@ -396,17 +393,17 @@ No desenvolvimento do front-end utilizei tecnologias NodeJs, JavaScript para des
 > Sei fazer com autonomia.
 
 ### Soft skills
-* Organização 
-> Como Scrum Maaster, adiquiri por meio da gestão do projeto utilizando ferramenta Plannser para auxílio, gestão da equipe, separação de tarefas e controle de tempo e peso das atividades através do desenvolvimento do burndown e backlog.
+* Integração de Novos Membros
+> Aperfeiçoei minha habilidade de integração ao criar um ambiente acolhedor para novos membros, facilitando a adaptação deles às dinâmicas de trabalho e ao ritmo da equipe.
 
 * Comunicação 
 > Alcancei por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e resoluções de conflitos e empecilhos no meio do projeto. Além de resolver conflitos aprentes na equipe.
  
-* Proatividade
-> Alcançada por meio de pesquisas sobre como usar e desenvolver com a tecnologias, pesquisas sobre como melhorar o desenvolvimento da equipe e metodologia SCRUM.
+* Resolução de Problemas Técnicos
+> Aumentei minha capacidade de resolver problemas técnicos ao enfrentar desafios com novas tecnologias e ajudar a equipe a se adaptar a elas, garantindo que todos estivessem confortáveis com as ferramentas utilizadas nos projetos acadêmicos.
 
-* Trabalho em equipe
-> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
+* Gestão e Definição de Tarefas
+> Melhorei minhas habilidades de gestão e definição de tarefas ao planejar e distribuir atividades, garantindo que cada membro da equipe tivesse um papel claro e contribuísse para o sucesso do projeto acadêmico.
 
 
 
