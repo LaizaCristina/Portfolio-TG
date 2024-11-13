@@ -25,7 +25,7 @@ Para complementar minha trajetória até o momento, iniciei o estágio na empres
 
 ## Contatos
 - [LinkedIn](www.linkedin.com/in/laiza-zaic-476223252)
-- [E-mail](laizacristinamt@gmail.com)
+- [E-mail](mailto:laizacristinamt@gmail.com)
 - [Instagram](https://www.instagram.com/ravenah_zefra/?hl=pt)
 
 
