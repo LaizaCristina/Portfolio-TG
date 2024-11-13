@@ -12,7 +12,7 @@
 
 <Div align="justify" >
 
-Sou estudante do 5º semestre do curso Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal em São José dos Campos. No ensino médio, despertei o interesse pela área de tecnologia e busquei aprimorar meus conhecimentos por meio de cursos técnicos.
+Sou estudante do 6º semestre do curso Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal em São José dos Campos. No ensino médio, despertei o interesse pela área de tecnologia e busquei aprimorar meus conhecimentos por meio de cursos técnicos.
 
 Durante o ensino médio, o qual cursei na Escola Estadual José Mariotto Ferreira Major Aviador, junto com o curso de Aprendizagem Industrial de Mecânico de Usinagem no Serviço Nacional de Aprendizagem Industrial (SENAI), desenvolvi uma base sólida de soft skills voltada para organização, respeito com os professores e colegas de classe, e principalmente disciplina. No SENAI, também tive contato com programação de CNC. Depois, iniciei o curso Técnico de Automação Industrial no Instituto Federal de São Paulo (IFSP), onde pude ter mais contato e desenvolver mais habilidades em programação com Arduinos, linguagem C++, CLP e CNC.
 No ano de conclusão do curso técnico, iniciei o ensino superior na Faculdade de Tecnologia (FATEC), onde pude ter contato mais direto com a área de tecnologia e programação.
@@ -23,29 +23,43 @@ Para complementar minha trajetória até o momento, iniciei o estágio na empres
 
 </Div>
 
-<Div align="center" >
+## Contatos
+- [LinkedIn](www.linkedin.com/in/laiza-zaic-476223252)
+- [E-mail](laizacristinamt@gmail.com)
+- [Instagram](https://www.instagram.com/ravenah_zefra/?hl=pt)
 
-### Contatos
-  <a href= "https://www.linkedin.com/in/laiza-cristina-machado-zaic-truyts-476223252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://github.com/LaizaCristina" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<hr />  
 
 ## Principais conhecimentos
+Principais conhecimentos das tecnologias, com foco em front-end:
+- CSS
+- HTML
+- JavaScript
+- TypeScript
+- React
+- React Native
+- Python
+- SQL
+- Git
+</br>
+Conhecimentos em outras ferramentas de Gestão e Prototipagem:
 
+- Figma
+- Canva
+- Jira Software
+- Microsft Planner
+- Trello
+- Miro
  
-|Banco de dados|Frameworks|Linguagens|Outros|
-| :-------: | :--------: | :----: | :--------: |
-| ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Planner Microsoft](https://img.shields.io/badge/Planner-%23217800?style=for-the-badge&logo=microsoft&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%236633CC?style=for-the-badge&logo=bootstrap&logoColor=white)|
 
-### Cursos
+## Certificações
+| Certificação | Credencial |
+| :--- | :--- |
+| Microsoft Certified: Power Platform Fundamentals - PL-900 | [credencial](https://learn.microsoft.com/pt-br/users/laizacristinamachadozaictruyts-5684/credentials/29b91625e037b5b8?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
+| Introduction to MongoDB | [credencial](https://learn.mongodb.com/c/YqDHXIrUTKmAjNCY-chxdA) |
+| MongoDB Node.Js Developer Path | [credencial](https://learn.mongodb.com/c/YqDHXIrUTKmAjNCY-chxdA) |
+</br>
 
-|   Curso  |  Plataforma  |   Status    |
-| :---   | :---    | :---      |
-| Introduction to MongoDB | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Concluído |
-| MongoDB Node.js Developer Path | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Concluído |
-
-
-## :computer: Meus Projetos
+## Meus Projetos
 
  |   Projeto  |  Período  |    Empresa Parceira    |
  | :---   | :---    | :---      |
@@ -54,13 +68,11 @@ Para complementar minha trajetória até o momento, iniciei o estágio na empres
  | [3º Semestre](https://github.com/LaizaCristina/Portifolio-TG#3sem)  | 2023 - 1º Semestre  | Visiona |
  | [4º Semestre](https://github.com/LaizaCristina/Portifolio-TG#4sem)  | 2023 - 2º Semestre  | Greenneat |
  | [5° Semestre](https://github.com/LaizaCristina/Portifolio-TG#5sem)  |2024 - 1° Semestre  | Oracle |
+ | [6° Semestre](https://github.com/LaizaCristina/Portifolio-TG#5sem)  |2024 - 2° Semestre  | Dom Rock |
 
  
 <br />
 
----
-
-</Div>
 
 <div name="1sem"></div>
 
@@ -68,13 +80,13 @@ Para complementar minha trajetória até o momento, iniciei o estágio na empres
 
 <Div align="justify" >
 
-> [Link para a API do 1º Semetre](https://github.com/4DeskGroup/API-2022.1)
-
 O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia em um site web que listava vagas de empregos e cursos na área de tecnologia. Para alcançar esse objetivo, foi necessário a criação de um site e o desenvolvimento de um programa em Python projetado para a raspagem de dados para puxar as vagas de emprego e cursos de especialização em tecnologia disponíveis.
 
 As páginas desenvolvidas no projeto como requisitos funcionais foram:
 - Página Home, Página de Cursos e Certificações, Página de Vagas de Emprego, Página de Métricas, Página de Localização
 </Div>
+
+> [Link para a API do 1º Semetre](https://github.com/4DeskGroup/API-2022.1)
 
 <Div align="justify" >
 
