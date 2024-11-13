@@ -79,45 +79,38 @@ Conhecimentos em outras ferramentas de Gestão e Prototipagem:
 ### ⭐ 1° Semestre - Em 2022.1
 
 <Div align="justify" >
+  
+### Problema
 
-O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia em um site web que listava vagas de empregos e cursos na área de tecnologia. Para alcançar esse objetivo, foi necessário a criação de um site e o desenvolvimento de um programa em Python projetado para a raspagem de dados para puxar as vagas de emprego e cursos de especialização em tecnologia disponíveis.
+O projeto integrador do primeiro semestre teve como objetivo desenvolver uma plataforma web para centralizar o acesso a vagas de emprego e cursos de especialização na área de tecnologia, facilitando a busca e o acompanhamento dessas oportunidades para estudantes e profissionais. Em parceria com o cliente interno, Professor Antonio Egydio, identificamos que a falta de um único ponto de referência para essas informações tornava a busca por vagas e cursos demorada e, muitas vezes, frustrante, devido à dispersão das informações em diversas plataformas e à dificuldade de encontrar dados atualizados.</br>
 
-As páginas desenvolvidas no projeto como requisitos funcionais foram:
-- Página Home, Página de Cursos e Certificações, Página de Vagas de Emprego, Página de Métricas, Página de Localização
+### Solução
+Para alcançar os objetivos do projeto, nossa equipe desenvolveu um site com design moderno e navegação intuitiva, garantindo uma experiência agradável e fácil para o usuário. Um diferencial foi a implementação de um programa em Python que automatiza a coleta e atualização de vagas de emprego e cursos em tecnologia, mantendo o conteúdo sempre atualizado sem necessidade de manutenção manual.</br>
+
 </Div>
 
-> [Link para a API do 1º Semetre](https://github.com/4DeskGroup/API-2022.1)
+[GIT](https://github.com/4DeskGroup/API-2022.1)
 
 <Div align="justify" >
+
+#### Tecnologias Utilizadas:
+- HTML: Utilizamos HTML em nosso projeto para a criação da estrutura das páginas web para apresentação das vagas de cursos e empregos disponíveis, também criamos uma página que exibia métricas a respeitos dessas vagas listadas no site.</br>
+- CSS: Utilizamos o CSS para estilizar, assim melhorando a apresentação visual de nossas páginas criadas com HTML. Com o CSS, conseguimos controlar cores, fontes e layout.</br>
+- Python: Utilizamos o Python para o 'web scraping' em sites de vaga de empregos e cursos, extraindo informações como título da vaga, localização, empresa, salário e o link que redirecionava para a página da vaga.</br>
+- PHP: Utilizado para banco de dados.</br>
+- Figma: Utilizado para desenvlver o protótipo.
+- VScode: Utilizado para o desenvolvimento do código do projeto.
+- GitHub: Utilizado para hospedagem do código e versionamento do código.
 
 ### Contribuições pessoais
 Neste projeto, assumi o cargo de Scrum Master e fui responsável pelo front-end do projeto. Como Scrum Master, fiz o planejamento da sprint através do gráfico Burndown e com planilha em Excel. Juntamente com o time de desenvolvedores, organizei e distribuí as tarefas de acordo com o necessário, além de traçar o plano de como deveríamos seguir desenvolvendo as sprints.
 No desenvolvimento do front-end, utilizei HTML e CSS para o desenvolvimento das páginas web do projeto e o framework Bootstrap para auxiliar na construção e estrutura da interface.
 
+<details><summary>Demonstração</summary>
 ### Resultado das páginas em front-end:
  <img src='https://user-images.githubusercontent.com/100849359/172060844-e01a5767-ed41-46ba-90f4-32270e1b5a77.gif' width='65%' height='65%'>
  <img src='https://user-images.githubusercontent.com/100849359/172060863-0a367980-76e4-49b9-b130-706e255ce7c2.gif' width='65%' height='65%'>
 </div>
-
-### Tecnologias utilizadas
-   
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
-  > Utilizado para desenvolver o protótipo apresentado ao cliente.
-  
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
-  > Utilizado para o desenvolvimento do código de todo o projeto.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML 
-  > Utilizamos HTML em nosso projeto para a criação da estrutura das páginas web para apresentação das vagas de cursos e empregos disponíveis, também criamos uma página que exibia métricas a respeitos dessas vagas listadas no site.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS 
-  > Utilizamos o CSS para estilizar, assim melhorando a apresentação visual de nossas páginas criadas com HTML. Com o CSS, conseguimos controlar cores, fontes e layout.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
-  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python 
-  > Utilizamos o Python para o 'web scraping' em sites de vaga de empregos e cursos, extraindo informações como título da vaga, localização, empresa, salário e o link que redirecionava para a página da vaga.
 
 ### Hard skills
 * Criação de protótipos pelo Figma:
@@ -125,6 +118,10 @@ No desenvolvimento do front-end, utilizei HTML e CSS para o desenvolvimento das 
 
 * Desenvolvimento de páginas web utilizando as linguagens HTML5 e CSS3:
 > Sei fazer com autonomia.
+
+* Desenvolvimento de webscraping com Python:
+> Sei fazer com pesquisa.
+</br>
 
 ### Soft skills
 * Organização 
