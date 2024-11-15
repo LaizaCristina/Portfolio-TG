@@ -54,9 +54,9 @@ Conhecimentos em outras ferramentas de Gestão e Prototipagem:
 ## Certificações
 | Certificação | Credencial |
 | :--- | :--- |
-| Microsoft Certified: Power Platform Fundamentals - PL-900 | [credencial](https://learn.microsoft.com/pt-br/users/laizacristinamachadozaictruyts-5684/credentials/29b91625e037b5b8?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
-| Introduction to MongoDB | [credencial](https://learn.mongodb.com/c/YqDHXIrUTKmAjNCY-chxdA) |
-| MongoDB Node.Js Developer Path | [credencial](https://learn.mongodb.com/c/YqDHXIrUTKmAjNCY-chxdA) |
+| Microsoft Certified: Power Platform Fundamentals - PL-900 | [acessar credencial](https://learn.microsoft.com/pt-br/users/laizacristinamachadozaictruyts-5684/credentials/29b91625e037b5b8?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
+| Introduction to MongoDB | [acessar credencial](https://learn.mongodb.com/c/YqDHXIrUTKmAjNCY-chxdA) |
+| MongoDB Node.Js Developer Path | [acessar credencial](https://learn.mongodb.com/c/YqDHXIrUTKmAjNCY-chxdA) |
 </br>
 
 ## Meus Projetos
@@ -68,7 +68,7 @@ Conhecimentos em outras ferramentas de Gestão e Prototipagem:
  | [3º Semestre](https://github.com/LaizaCristina/Portifolio-TG#3sem)  | 2023 - 1º Semestre  | Visiona |
  | [4º Semestre](https://github.com/LaizaCristina/Portifolio-TG#4sem)  | 2023 - 2º Semestre  | Greenneat |
  | [5° Semestre](https://github.com/LaizaCristina/Portifolio-TG#5sem)  |2024 - 1° Semestre  | Oracle |
- | [6° Semestre](https://github.com/LaizaCristina/Portifolio-TG#5sem)  |2024 - 2° Semestre  | Dom Rock |
+ | [6° Semestre](https://github.com/LaizaCristina/Portifolio-TG#6sem)  |2024 - 2° Semestre  | Dom Rock |
 
  
 <br />
@@ -87,13 +87,12 @@ O projeto integrador do primeiro semestre teve como objetivo desenvolver uma pla
 ### Solução
 Para alcançar os objetivos do projeto, nossa equipe desenvolveu um site com design moderno e navegação intuitiva, garantindo uma experiência agradável e fácil para o usuário. Um diferencial foi a implementação de um programa em Python que automatiza a coleta e atualização de vagas de emprego e cursos em tecnologia, mantendo o conteúdo sempre atualizado sem necessidade de manutenção manual.</br>
 
-</Div>
 
 [GIT](https://github.com/4DeskGroup/API-2022.1)
 
 <Div align="justify" >
 
-#### Tecnologias Utilizadas:
+### Tecnologias Utilizadas:
 - HTML: Utilizamos HTML em nosso projeto para a criação da estrutura das páginas web para apresentação das vagas de cursos e empregos disponíveis, também criamos uma página que exibia métricas a respeitos dessas vagas listadas no site.</br>
 - CSS: Utilizamos o CSS para estilizar, assim melhorando a apresentação visual de nossas páginas criadas com HTML. Com o CSS, conseguimos controlar cores, fontes e layout.</br>
 - Python: Utilizamos o Python para o 'web scraping' em sites de vaga de empregos e cursos, extraindo informações como título da vaga, localização, empresa, salário e o link que redirecionava para a página da vaga.</br>
@@ -103,99 +102,97 @@ Para alcançar os objetivos do projeto, nossa equipe desenvolveu um site com des
 - GitHub: Utilizado para hospedagem do código e versionamento do código.
 
 ### Contribuições pessoais
-Neste projeto, assumi o cargo de Scrum Master e fui responsável pelo front-end do projeto. Como Scrum Master, fiz o planejamento da sprint através do gráfico Burndown e com planilha em Excel. Juntamente com o time de desenvolvedores, organizei e distribuí as tarefas de acordo com o necessário, além de traçar o plano de como deveríamos seguir desenvolvendo as sprints.
-No desenvolvimento do front-end, utilizei HTML e CSS para o desenvolvimento das páginas web do projeto e o framework Bootstrap para auxiliar na construção e estrutura da interface.
+Neste projeto, assumi o papel de **Scrum Master** e também fui responsável pelo **desenvolvimento do front-end**.  
+
+Como **Scrum Master**, conduzi o planejamento das **sprints**, utilizando o **gráfico Burndown** para acompanhar o progresso e uma planilha em **Excel** para organizar e monitorar as tarefas. Trabalhei em estreita colaboração com o time de desenvolvedores, organizando e distribuindo as atividades de acordo com as prioridades e requisitos do projeto. Além disso, elaborei o plano estratégico para o desenvolvimento das sprints, garantindo que a equipe estivesse alinhada e focada nos objetivos estabelecidos.
+
+No desenvolvimento do **front-end**, utilizei **HTML** e **CSS** para criar páginas web funcionais e visualmente atrativas. Para otimizar a estrutura e a responsividade da interface, empreguei o **framework Bootstrap**, que facilitou a construção de componentes visuais e proporcionou uma experiência de usuário moderna e intuitiva. Meu trabalho no front-end priorizou a qualidade do design, a usabilidade e a conformidade com os requisitos técnicos do projeto.
 
 <details><summary>Demonstração</summary>
+  
 ### Resultado das páginas em front-end:
+<div align="justify" >
  <img src='https://user-images.githubusercontent.com/100849359/172060844-e01a5767-ed41-46ba-90f4-32270e1b5a77.gif' width='65%' height='65%'>
  <img src='https://user-images.githubusercontent.com/100849359/172060863-0a367980-76e4-49b9-b130-706e255ce7c2.gif' width='65%' height='65%'>
 </div>
+</div>
 
 ### Hard skills
-* Criação de protótipos pelo Figma:
-> Sei fazer com autonomia.
-
-* Desenvolvimento de páginas web utilizando as linguagens HTML5 e CSS3:
-> Sei fazer com autonomia.
-
-* Desenvolvimento de webscraping com Python:
-> Sei fazer com pesquisa.
-</br>
+* **Criação de protótipos pelo Figma -** Sei fazer com autonomia.
+* **Desenvolvimento de páginas web utilizando as linguagens HTML5 e CSS3 -** Sei fazer com autonomia.
+* **Desenvolvimento de webscraping com Python -** Sei fazer com pesquisa.
 
 ### Soft skills
-* Organização 
-> Desenvolvi minha habilidade de organização através da gestão do projeto e da equipe. Foi essencial para a separação de tarefas, controle de tempo e acompanhamento do progresso através de gráficos Burndown e do backlog.
-
-* Comunicação 
-> Como Scrum Master, melhorei minhas habilidades de comunicação ao interagir com a equipe durante reuniões diárias, alinhando tarefas, resolvendo conflitos e eliminando obstáculos no desenvolvimento do projeto.
- 
-* Proatividade
-> Demonstrei proatividade ao buscar novas tecnologias e metodologias para aprimorar o desenvolvimento da equipe, além de pesquisar continuamente sobre a aplicação da metodologia SCRUM.
-
-* Trabalho em equipe
-> Fortaleci minha capacidade de colaborar efetivamente com os colegas, compartilhando ideias e trabalhando em conjunto para alcançar os objetivos do projeto.
+Durante o projeto, foi necessário trabalhar a socialização e a mediação de conflitos na equipe, já que estávamos no primeiro semestre e ainda nos conhecendo, o que ocasionou algumas desavenças. Foi fundamental desenvolver a empatia e a paciência durante a divisão de tarefas, assegurando que todos tivessem voz e chegassem a um consenso sobre as responsabilidades.
+Como Scrum Master, desempenhei o papel de facilitador, promovendo uma comunicação clara e eficaz entre os membros da equipe e garantindo o alinhamento em relação aos objetivos e processos do projeto.
 
 <hr /> 
+</Div>
 
 <div name="2sem"></div>
+
+
 
 ### ⭐ 2° Semestre - Em 2022.2
 
 <Div align="justify" >
+  
+### Problema
 
-> [Link para a API do 2º Semetre](https://github.com/4DeskGroup/API-2022.2)
+O projeto integrador do segundo semestre do curso teve como objetivo desenvolver uma aplicação desktop para o cliente Track Cash. Identificamos que a integração dos registros de vendas de canais físicos e online era uma necessidade crucial para o cliente, que buscava centralizar o acesso a essas informações em uma única plataforma. Antes disso, o processo de consulta e gestão desses dados era descentralizado, dificultando a interação eficiente dos usuários com os dados de vendas e impactando a experiência geral de uso.
 
-O projeto integrador do segundo semestre do curso envolveu colaboração com o cliente Track Cash. Seu propósito central consistia em uma aplicação desktop com o objetivo de integrar registros de canais de vendas, tanto em lojas físicas quanto online, com o cliente que quer acessar a plataforma para interagir com as informações de vendas desses canais. Para alcançar esse objetivo, foi necessário a criação de um software desktop instalável.
+### Solução
 
-As páginas desenvolvidas no projeto como requisitos funcionais foram:
-- Tela Home, tela login, tela cadastro, tela cadastrar canal de vendas, tela configuração ativas, tela configurações de canais, Canais ativos, tela dúvidas, tela desativar atividade de usuário, tela alterar senha.
-</Div>
+Para atender aos requisitos do projeto, nossa equipe desenvolveu um software desktop instalável, garantindo fácil acesso e usabilidade para os clientes da Track Cash. A aplicação foi projetada para integrar os registros de canais de vendas, permitindo que os usuários interajam diretamente com os dados em tempo real.  
+
+Além disso, foram desenvolvidas diversas páginas funcionais, como:
+- **Tela Home**: Interface principal para navegação geral.  
+- **Tela Login**: Autenticação dos usuários.  
+- **Tela Cadastro**: Registro de novos usuários na plataforma.  
+- **Tela Cadastrar Canal de Vendas**: Inclusão de novos canais de vendas, sejam físicos ou online.  
+- **Tela Configuração Ativas**: Gestão das configurações gerais do sistema.  
+- **Tela Configurações de Canais**: Personalização das configurações específicas de cada canal de vendas.  
+- **Tela Canais Ativos**: Exibição e gestão dos canais em operação.  
+- **Tela Dúvidas**: Suporte aos usuários com questões frequentes.  
+- **Tela Desativar Atividade de Usuário**: Ferramenta administrativa para gerenciar acessos.  
+- **Tela Alterar Senha**: Atualização de credenciais para maior segurança.
+
+
+[GIT](https://github.com/4DeskGroup/API-2022.2)
+
+### Tecnologias utilizadas:
+- Figma: Utilizado para desenvolver o protótipo apresentado ao cliente.
+- Net Beans: Utilizado para o desenvolvimento do código de todo o projeto.
+- Java: Utilizamos a linguagem Java para o desenvolvimento do software desktoop.
+- GitHub: Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
 
 ### Contribuições pessoais
 
-<Div align="justify" >
+Neste projeto, assumi o papel de **Desenvolvedor** e fui o responsável pela criação e implementação da **interface gráfica do usuário (GUI)**. Para o desenvolvimento da GUI, utilizei a linguagem **Java** e as ferramentas de design disponíveis no **NetBeans**, explorando a funcionalidade de **drag and drop** para agilizar a construção e o alinhamento dos componentes visuais.  
 
-Neste projeto, fiquei com o cargo de Desenvolvedor e responsável pela interface GUI do projeto. No desenvolvimento da GUI, utilizei código Java, com a interface e método de drag and drop disponíveis no NetBeans.
+Minha contribuição envolveu desde a concepção do design até a implementação dos elementos interativos, garantindo uma interface funcional, intuitiva e esteticamente agradável, alinhada aos requisitos do cliente e às necessidades do sistema.
 
-### Resultado das telas:
+<details><summary>Demonstração</summary>
+  
+### Resultado das páginas em front-end:
+<div align="justify" >
  <img src='https://github.com/4DeskGroup/API-2022.2/raw/main/doc/sprint%204/gifs/Politica%20de%20Privacidade%20e%20Termos%20de%20Uso.gif' width='65%' height='65%'>
  <img src='https://github.com/4DeskGroup/API-2022.2/raw/main/doc/sprint%204/gifs/Frontend%20Atualizado%20Administrador.gif' width='65%' height='65%'>
- 
+</div>
 </div>
 
-### Tecnologias utilizadas
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
-  > Utilizado para desenvolver o protótipo apresentado ao cliente.
-  
-  <img width="50 rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png"/> Net Beans 
-  > Utilizado para o desenvolvimento do código de todo o projeto.
-
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/> Java 
- > Utilizamos a linguagem Java para o desenvolvimento do software desktoop.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
-  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
-
-
 ### Hard skills
-* Criação de protótipos pelo Figma:
-> Sei fazer com autonomia.
-
-* Desenvolvimento de telas de software utilizando a linguagem Java:
-> Sei fazer com pesquisa e ajuda.
+- **Criação de protótipos pelo Figma -** Sei fazer com autonomia.
+- **Desenvolvimento de telas de software utilizando a linguagem Java -** Sei fazer com pesquisa e ajuda.
 
 ### Soft skills
-* Resolução de conflitos
-> Aprimorei minhas habilidades de resolução de conflitos ao lidar com divergências dentro da equipe, mediando discussões e encontrando soluções que beneficiassem todos os envolvidos.
+Durante o projeto, houve a entrada de dois novos integrantes na equipe, o que exigiu um esforço significativo para promover **empatia**, **resiliência** e **paciência**, especialmente com um membro que frequentemente manifestava insatisfação por sentir-se sobrecarregado, mas não comunicava a situação de forma clara ao grupo. Para lidar com o problema, realizamos conversas diretas e instituímos reuniões diárias, buscando criar um ambiente mais aberto e colaborativo. Apesar das dificuldades, conseguimos manter o projeto no cronograma, superando os desafios e evitando maiores conflitos até a conclusão.
 
-* Empatia
-> Pratiquei empatia ao considerar as perspectivas e necessidades dos membros da equipe, criando um ambiente colaborativo e de apoio mútuo.
- 
-* Resolução de problemas
-> Aprimorei minha habilidade de resolução de problemas ao identificar e mitigar riscos, encontrando soluções eficazes para os obstáculos enfrentados durante o desenvolvimento do projeto.
+Além disso, trabalhei intensamente minha **persistência** no aprendizado e desenvolvimento, pois a tecnologia utilizada era complexa e exigia um alto nível de dedicação para ser implementada. Apesar das dificuldades iniciais, consegui superar os obstáculos e desempenhar minhas atividades de forma satisfatória, contribuindo de maneira significativa para o sucesso do projeto.
 <hr /> 
+</Div>
+
+
 
 <div name="3sem"></div>
 
@@ -203,69 +200,66 @@ Neste projeto, fiquei com o cargo de Desenvolvedor e responsável pela interface
 
 <Div align="justify" >
 
-> [Link para a API do 3º Semetre](https://github.com/4DeskGroup/API-2023.1)
+### Problema
 
-O projeto integrador do terceiro semestre do curso envolveu colaboração com o cliente Visiona. Seu propósito central consistia em uma aplicação web para desenvolver um sistema de Gerenciamento de Usuário, utilizando tecnologia de micro serviços. A interface permitia a criação, visualização, edição e remoção de usuários.
+O projeto integrador do terceiro semestre do curso teve como objetivo desenvolver uma aplicação web para o cliente Visiona, voltada para o Gerenciamento de Usuários. Identificamos que o cliente precisava de uma solução moderna e eficiente para organizar, gerenciar e controlar o acesso de usuários ao sistema, já que o processo existente era manual e propenso a erros. Essa lacuna comprometia a produtividade e dificultava a administração de informações críticas.  
 
-As páginas desenvolvidas no projeto como requisitos funcionais foram:
-- Tela Home, tela login, tela cadastro, tela dashboard com os usuários, lista com o CRUD dos usuários.
-</Div>
+### Solução
+
+Para atender aos objetivos do projeto, desenvolvemos uma aplicação web baseada em tecnologia de **micro serviços**, garantindo escalabilidade, modularidade e maior eficiência no gerenciamento dos usuários. O sistema permitiu aos administradores realizar ações como **criação, visualização, edição e exclusão** de registros de usuários de maneira simplificada e intuitiva.  
+
+Foram implementadas as seguintes páginas funcionais:  
+- **Tela Home**: Interface inicial para navegação e apresentação do sistema.  
+- **Tela Login**: Autenticação de administradores e usuários autorizados.  
+- **Tela Cadastro**: Inclusão de novos usuários na plataforma.  
+- **Tela Dashboard com os Usuários**: Visualização geral e monitoramento do status dos usuários.  
+- **Lista com o CRUD dos Usuários**: Ferramenta completa para realizar operações de criação, leitura, atualização e exclusão de usuários.
+
+O projeto foi concluído com sucesso, entregando uma aplicação robusta e eficiente que atende às necessidades do cliente Visiona, otimizando os processos de gerenciamento e garantindo maior segurança e praticidade na administração de usuários.
+
+[GIT](https://github.com/4DeskGroup/API-2023.1)
+
+### Tecnologias Utilizadas
+- Figma - Utilizado para desenvolver o protótipo apresentado ao cliente.
+- VScode - Utilizado para o desenvolvimento do código de todo o projeto.
+- React - Utilizamos React para o desenvolvimento da aplicação web.
+- JavaScript - Utilizamos a linguagem JavaScript para o desenvolvimento da aplicação web.
+- NodeJS -  Utilizamos o NodeJs para ambiente de execução em uma máquina virtual própria para interpretar e executar os scripts.
+- Postgresql - Utilizamos o Postgresql como banco de dados.
+- GitHub - Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
 
 ### Contribuições pessoais
 
 <Div align="justify" >
-Neste projeto, assumi o cargo de Scrum Master e fui responsável pelo front-end. Como Scrum Master, planejei as sprints usando gráficos de Burndown e planilhas no Excel. Em conjunto com a equipe de desenvolvedores, organizei e distribuí as tarefas conforme necessário, além de traçar o plano para o desenvolvimento das sprints.
+  
+Neste projeto, atuei como **Scrum Master** e fui responsável pelo **desenvolvimento do front-end**.  
 
-No desenvolvimento do front-end, utilizei Node.js e JavaScript para criar componentes, especialmente gráficos na tela do dashboard, e utilizei React como framework para auxiliar na estrutura e construção da interface.
+Como **Scrum Master**, planejei e gerenciei as **sprints** utilizando **gráficos de Burndown** para monitorar o progresso e planilhas no **Excel** para organizar as atividades e acompanhar entregas. Trabalhei em conjunto com a equipe de desenvolvedores para **organizar e distribuir as tarefas** de forma eficiente, garantindo que cada etapa fosse concluída dentro do prazo. Além disso, elaborei estratégias claras para o desenvolvimento das sprints, promovendo alinhamento e colaboração contínua entre os integrantes da equipe.
 
+No desenvolvimento do **front-end**, utilizei **Node.js** e **JavaScript** para implementar componentes dinâmicos e interativos, com destaque para a criação de gráficos no **dashboard** da aplicação. Adotei o framework **React** para facilitar a estruturação da interface, otimizando o processo de desenvolvimento e garantindo uma experiência de usuário moderna e responsiva. Meu foco foi integrar funcionalidade e design, entregando uma interface alinhada aos requisitos técnicos e às expectativas dos stakeholders.
+
+<details><summary>Demonstração</summary>
+  
 ### Resultado das páginas em front-end:
- <img src='https://github.com/4DeskGroup/API-2023.1/raw/main/doc/sprint%203/gifs/8_dashboard.gif?raw=true' width='65%' height='65%'>
+<div align="justify" >
+  <img src='https://github.com/4DeskGroup/API-2023.1/raw/main/doc/sprint%203/gifs/8_dashboard.gif?raw=true' width='65%' height='65%'>
  <img src='https://github.com/4DeskGroup/API-2023.1/raw/main/doc/sprint%203/gifs/7_ativar%20desativar%20usu%C3%A1rio.gif?raw=true' width='65%' height='65%'>
- 
 </div>
-
-### Tecnologias utilizadas
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
-  > Utilizado para desenvolver o protótipo apresentado ao cliente.
-
-<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
-  > Utilizado para o desenvolvimento do código de todo o projeto.
-
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/> React
- > Utilizamos React para o desenvolvimento da aplicação web.
-
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript
- > Utilizamos a linguagem JavaScript para o desenvolvimento da aplicação web.
-
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/> Nodejs
- > Utilizamos o NodeJs para ambiente de execução em uma máquina virtual própria para interpretar e executar os scripts.
-
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/> Postgresql
- > Utilizamos o Postgresql como banco de dados.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
-  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+</div>
 
 
 ### Hard skills
-* Criação de protótipos pelo Figma:
-> Sei fazer com autonomia.
-
-* Desenvolvimento de telas em aplicação web utilizando React e JavaScript:
-> Sei fazer com autonomia.
+* **Criação de protótipos pelo Figma -** Sei fazer com autonomia.
+* **Desenvolvimento de telas em aplicação web utilizando React e JavaScript -** Sei fazer com autonomia.
 
 ### Soft skills
-* Adaptabilidade
-> Aumentei minha adaptabilidade ao responder rapidamente às mudanças e novos desafios, novos mebros na equipe, ajustando estratégias e métodos de trabalho conforme necessário.
-
-* Gestão de Mudanças
-> Desenvolvi habilidades de gestão de mudanças ao integrar novos membros na equipe e resolver problemas relacionados à tecnologia.
-
-* Resolução de Problemas
-> Aperfeiçoei a resolução de problemas ao enfrentar desafios técnicos e encontrar soluções eficazes para superá-los.
-
+O projeto do 3° semestre foi conduzido de forma tranquila e eficiente. Mesmo com a entrada de um novo integrante na equipe, a adaptação ocorreu sem problemas, mantendo um ambiente de colaboração e produtividade. As tecnologias utilizadas para o desenvolvimento também foram bem compreendidas e implementadas, permitindo que o trabalho fosse realizado de forma fluida e alinhada com os objetivos do projeto. A integração do novo membro e o domínio das ferramentas contribuíram para o sucesso da entrega dentro do prazo e com alta qualidade.
 <hr /> 
+
+</Div>
+
+
+
 
 <div name="4sem"></div>
 
@@ -273,146 +267,197 @@ No desenvolvimento do front-end, utilizei Node.js e JavaScript para criar compon
 
 <Div align="justify" >
 
-> [Link para a API do 4º Semetre](https://github.com/4DeskGroup/API-2023.2)
+### Problema  
 
-O projeto integrador do quarto semestre do curso envolveu colaboração com o cliente Greenneat. Seu propósito central consistia em uma aplicação web para criar uma plataforma de gestão de créditos a serem utilizados como contrapartida no momento da coleta de material pelos parceiros da Greenneat nos estabelecimentos cadastrados. Os créditos poderiam ser usados posteriormente para compra de produtos na loja virtual.
+O projeto integrador do quarto semestre teve como objetivo desenvolver uma aplicação web para o cliente **Greenneat**, visando a criação de uma plataforma de gestão de créditos. O cliente precisava de uma solução que integrasse o sistema de **coleta de materiais recicláveis** realizados pelos parceiros em estabelecimentos cadastrados, com a gestão de créditos recebidos como contrapartida. Esses créditos poderiam ser utilizados posteriormente pelos usuários para adquirir produtos na loja virtual da Greenneat. Antes da implementação, o processo era manual e pouco eficiente, dificultando o controle e a rastreabilidade das transações de créditos e materiais.  
 
-As páginas desenvolvidas no projeto como requisitos funcionais foram:
-- Tela Home, tela de login, tela de cadastro, tela dashboard com os usuários, tela para compra de óleo, tela para cadastro de óleo, tela de estoque de óleo, tela de transferência de Greenneats, definição do valor do óleo, histórico de compras de óleo, transferência de Greenneats.
-</Div>
+### Solução  
+
+Para resolver essa necessidade, nossa equipe desenvolveu uma aplicação web moderna e funcional, capaz de gerenciar **créditos Greenneat** de forma prática e eficiente. A plataforma foi projetada para oferecer suporte a todo o processo, desde o cadastro de parceiros e materiais coletados até o uso de créditos para compras. Isso foi feito garantindo uma interface intuitiva e segura para administradores e usuários finais.  
+
+Foram implementadas as seguintes páginas funcionais no sistema:  
+- **Tela Home**: Interface inicial para apresentação do sistema.  
+- **Tela de Login**: Autenticação de usuários cadastrados.  
+- **Tela de Cadastro**: Inclusão de novos usuários e parceiros.  
+- **Tela Dashboard com os Usuários**: Visualização geral e monitoramento do status dos usuários.  
+- **Tela para Compra de Óleo**: Interface para registrar compras de óleo reciclado.  
+- **Tela para Cadastro de Óleo**: Inclusão de novos registros de materiais recicláveis no sistema.  
+- **Tela de Estoque de Óleo**: Controle e visualização do estoque disponível.  
+- **Tela de Transferência de Greenneats**: Interface para transações de créditos entre usuários.  
+- **Definição do Valor do Óleo**: Configuração dos valores aplicados por tipo de material.  
+- **Histórico de Compras de Óleo**: Registro detalhado das transações realizadas.  
+
+A aplicação foi concluída com sucesso, atendendo plenamente às necessidades da Greenneat. O sistema ofereceu maior controle, transparência e eficiência na gestão de créditos e materiais recicláveis, além de melhorar a experiência do usuário e apoiar os objetivos sustentáveis do cliente.
+
+[GIT](https://github.com/4DeskGroup/API-2023.2)
+
+
+### Tecnologias utilizadas:
+
+- Figma - Utilizado para desenvolver o protótipo apresentado ao cliente.
+- VScode - Utilizado para o desenvolvimento do código de todo o projeto.
+- React - Utilizamos React para o desenvolvimento da aplicação web.
+- JavaScript - Utilizamos a linguagem JavaScript para o desenvolvimento da aplicação web.
+- NodeJS - Utilizamos o NodeJs para ambiente de execução em uma máquina virtual própria para interpretar e executar os scripts.
+- Postgresql - Utilizamos o Postgresql como banco de dados.
+- GitHub - Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+- Microsoft Planner - Utilizamos o Microsoft Planner para organização de atividades e enntregas.
 
 ### Contribuições pessoais
 
 <Div align="justify" >
+  
+Neste projeto, assumi o papel de **Scrum Master** e fui responsável pelo **desenvolvimento front-end**. Como Scrum Master, organizei e planejei as sprints utilizando o **Microsoft Planner**, gráficos de **Burndown** e planilhas no **Excel**, garantindo o acompanhamento do progresso e a entrega dentro dos prazos estipulados. Trabalhei de perto com a equipe de desenvolvedores, coordenando a distribuição das tarefas, facilitando a comunicação e garantindo que todos os membros estivessem alinhados com os objetivos de cada sprint.
 
-Neste projeto, assumi o cargo de Scrum Master e fui responsável pelo front-end. Como Scrum Master, planejei as sprints e atividades utilizando o Microsoft Planner, gráficos de Burndown e planilhas no Excel. Em conjunto com a equipe de desenvolvedores, organizei e distribuí as tarefas conforme necessário, além de traçar o plano para o desenvolvimento das sprints.
+No desenvolvimento do front-end, utilizei **Node.js** e **JavaScript** para criar componentes dinâmicos, como gráficos interativos no dashboard e uma **sidebar** com design responsivo, garantindo que a interface fosse adaptável a diferentes dispositivos. Para a estruturação da interface, utilizei o **React** como framework, o que possibilitou uma maior modularidade e eficiência no desenvolvimento, além de facilitar a manutenção e escalabilidade do código. A combinação dessas tecnologias permitiu a criação de uma interface moderna, interativa e de fácil navegação para os usuários.
 
-No desenvolvimento do front-end, utilizei Node.js, JavaScript para desenvolvimento dos componentes como gráficos na tela do dashboard, sidebar com responsividade, e utilizei React para framework auxiliar na construção e estrutura da interface.
 
+<details><summary>Demonstração</summary>
+  
 ### Resultado das páginas em front-end:
- <img src='https://github.com/4DeskGroup/API-2023.2/raw/main/Projeto/Sprint%204/Gifs/DashBoardGIF.gif' width='65%' height='65%'>
+<div align="justify" >
+   <img src='https://github.com/4DeskGroup/API-2023.2/raw/main/Projeto/Sprint%204/Gifs/DashBoardGIF.gif' width='65%' height='65%'>
  <img src='https://github.com/4DeskGroup/API-2023.2/raw/main/Projeto/Sprint%203/Gifs/EmrpesaComrpaOleoParc.gif' width='65%' height='65%'>
- 
 </div>
-
-### Tecnologias utilizadas
-   
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
-  > Utilizado para desenvolver o protótipo apresentado ao cliente.
-
-<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
-  > Utilizado para o desenvolvimento do código de todo o projeto.
-
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/> React
- > Utilizamos React para o desenvolvimento da aplicação web.
-
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript
- > Utilizamos a linguagem JavaScript para o desenvolvimento da aplicação web.
-
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/> Nodejs
- > Utilizamos o NodeJs para ambiente de execução em uma máquina virtual própria para interpretar e executar os scripts.
-
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/> Postgresql
- > Utilizamos o Postgresql como banco de dados.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
-  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
-
- <img width="50 rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Microsoft_Planner_%282019%E2%80%93present%29.svg/768px-Microsoft_Planner_%282019%E2%80%93present%29.svg.png"/> Microsoft Planner
-  > Utilizamos o Microsoft Planner para organização de atividades e enntregas.
+</div>
 
 
 ### Hard skills
-* Criação de protótipos pelo Figma:
-> Sei fazer com autonomia.
-
-* Desenvolvimento de telas em aplicação web utilizando React e JavaScript:
-> Sei fazer com autonomia.
+* **Criação de protótipos pelo Figma -** Sei fazer com autonomia.
+* **Desenvolvimento de telas em aplicação web utilizando React e JavaScript -** Sei fazer com autonomia.
 
 ### Soft skills
-* Pensamento crítico
-> Desenvolvi o pensamento crítico ao analisar dados e feedbacks do projeto fornecidos pelo cliente, tomando decisões informadas para ajustar o rumo das atividades e melhorar os resultados.
+No início do projeto, precisei fornecer uma explicação detalhada e didática sobre o funcionamento da moeda **Greenneat** e as integrações necessárias para atender aos requisitos do cliente. Para garantir que todos compreendessem claramente o fluxo, utilizei **desenhos e diagramas** explicativos, detalhando cada etapa do processo e as interações entre os sistemas. Essa abordagem foi essencial para alinhar a visão do projeto com a equipe, especialmente devido à complexidade das integrações envolvidas.
 
-* Iniciativa
-> Fortaleceu-se a minha iniciativa ao assumir responsabilidades adicionais e propor melhorias no processo de desenvolvimento, buscando constantemente elevar a qualidade do trabalho da equipe.
- 
-* Liderança
-> Exercitei a liderança ao coordenar atividades específicas dentro da equipe, motivando os membros e promovendo um ambiente de trabalho positivo.
+Ao longo do desenvolvimento, trabalhei constantemente a **comunicação**, a **didática** e a **empatia** com os desenvolvedores, pois algumas dúvidas persistiam à medida que novas funcionalidades eram implementadas. Apesar das dificuldades iniciais, consegui manter um ambiente colaborativo, incentivando a troca de ideias e esclarecendo as questões que surgiam. Graças a esses esforços, todos os membros da equipe conseguiram compreender plenamente os objetivos e as necessidades do projeto, o que permitiu o desenvolvimento bem-sucedido e a entrega de uma solução eficaz para o cliente.
+<hr>
+</Div>
 
-* Apoio
-> Desenvolvi habilidades de apoio ao ajudar e orientar os membros da equipe a melhorarem suas habilidades.
+
+
 
 <div name="5sem"></div>
 
-### ⭐ 5° Semestre - Em 2023.2
+### ⭐ 5° Semestre - Em 2024.1
 
 <Div align="justify" >
 
-> [Link para a API do 5º Semetre](https://github.com/4DeskGroup/API-2024.1)
+### Problema  
 
-O projeto integrador do quinto semestre do curso envolveu colaboração com cliente Oracle. Seu propósito central consistia em desenvolver um sistema de gestão de parceiros para a Oracle. Este sistema seria responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes – em plataforma mobile.
+O projeto integrador do quinto semestre teve como objetivo desenvolver uma aplicação mobile para o cliente **Oracle**, focada na criação de um sistema de **gestão de parceiros**. O cliente necessitava de uma solução que permitisse cadastrar novos parceiros, gerenciar suas informações, acompanhar o desenvolvimento de conhecimento dos mesmos e fornecer relatórios relevantes sobre o desempenho, de forma acessível e eficiente. Antes da implementação do sistema, o processo era descentralizado e manual, o que dificultava o acompanhamento e a gestão dos parceiros de forma eficaz e integrada.  
 
-As páginas desenvolvidas no projeto como requisitos funcionais foram:
-- Tela de login, tela de cadastro de parceiros e consultores de alianças, tela de dashboard com os usuários e o desempenho dos parceiros por Tracks, tela inicial para administrador e consultor de alianças.
-</Div>
+### Solução  
+
+Para atender às necessidades da Oracle, nossa equipe desenvolveu uma plataforma mobile moderna, com foco na **gestão de parceiros**, permitindo uma administração mais eficiente e ágil das informações. O sistema foi projetado para ser intuitivo e acessível, facilitando o cadastro, a atualização de dados e o acompanhamento do desempenho dos parceiros. 
+
+Foram implementadas as seguintes páginas funcionais no sistema:  
+- **Tela de Login**: Autenticação dos usuários na plataforma.  
+- **Tela de Cadastro de Parceiros e Consultores de Alianças**: Inclusão de novos parceiros e consultores, com a capacidade de atualizar suas informações.  
+- **Tela de Dashboard com Desempenho dos Parceiros por Tracks**: Visualização do desempenho dos parceiros, com base nos critérios definidos.  
+- **Tela Inicial para Administrador e Consultor de Alianças**: Interface personalizada para os diferentes perfis de usuário, permitindo o gerenciamento adequado dos parceiros.  
+
+O sistema foi implementado com sucesso, atendendo plenamente aos requisitos da Oracle e proporcionando maior controle, eficiência e transparência na gestão dos parceiros, além de apoiar o desenvolvimento contínuo do conhecimento dos mesmos.
+
+[GIT](https://github.com/4DeskGroup/API-2024.1)
+
+### Tecnologias utilizadas:
+
+- Figma - Utilizado para desenvolver o protótipo apresentado ao cliente.
+- VScode - Utilizado para o desenvolvimento do código de todo o projeto.
+- React Native - Utilizamos React para o desenvolvimento da aplicação mobile.
+- JavaScript - Utilizamos a linguagem JavaScript para o desenvolvimento da aplicação.
+- NodeJS - Utilizamos o NodeJs para ambiente de execução em uma máquina virtual própria para interpretar e executar os scripts.
+- MongoDB - Utilizamos o Mongodb como banco de dados.
+- GitHub - Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+
 
 ### Contribuições pessoais
 
 <Div align="justify" >
 
-Neste projeto, fiquei com o cargo de Scrum Master e responsável pelo front-end do projeto. Como Scrum Master, fiz o planejamento da sprint e das atividades, utilizando gráfico Burndown através do Microsoft Excel. Juntamente com o time de desenvolvedores, organizei e distribuí as tarefas de acordo com o necessário, além de traçar o plano de como deveríamos seguir desenvolvendo as sprints. No desenvolvimento do front-end, utilizei tecnologias NodeJs e JavaScript para desenvolvimento dos componentes, como gráficos na tela de dashboard e menus do projeto, utilizando React-Native como framework para auxiliar na construção e estrutura da interface.
+Neste projeto, assumi a função de Scrum Master e também fui responsável pelo desenvolvimento do front-end. Como Scrum Master, conduzi o planejamento das sprints e das atividades, utilizando gráficos Burndown por meio do Microsoft Excel. Trabalhei em estreita colaboração com a equipe de desenvolvedores, organizando e distribuindo as tarefas conforme as necessidades do projeto, além de definir as diretrizes para o desenvolvimento das sprints.
 
+No desenvolvimento do front-end, utilizei **Node.js** e **JavaScript** para criar componentes dinâmicos, como gráficos interativos na tela de dashboard e menus do projeto. Para estruturar e otimizar a interface, utilizei **React Native** como framework, garantindo uma experiência de usuário fluida e responsiva. Além disso, ao final do projeto, fui responsável pelo refinamento da interface, focando principalmente nas telas com menus, aprimorando a usabilidade e a fluidez da navegação para tornar o sistema ainda mais intuitivo e eficiente.
+
+
+<details><summary>Demonstração</summary>
+  
 ### Resultado das páginas em front-end:
- <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/dashboards.gif'  height='400'>
+<div align="justify" >
+<img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/dashboards.gif'  height='400'>
  <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/adicionar_track%5D.gif' height='400'>
- 
+</div>
 </div>
 
-### Tecnologias utilizadas
-   
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
-  > Utilizado para desenvolver o protótipo apresentado ao cliente.
 
-<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
-  > Utilizado para o desenvolvimento do código de todo o projeto.
-
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/> React
- > Utilizamos React para o desenvolvimento da aplicação web.
-
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript
- > Utilizamos a linguagem JavaScript para o desenvolvimento da aplicação web.
-
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/> Nodejs
- > Utilizamos o NodeJs para ambiente de execução em uma máquina virtual própria para interpretar e executar os scripts.
-
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/> Mongodb
- > Utilizamos o Mongodb como banco de dados.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
-  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
-
- <img width="50 rem" src="https://github.com/LaizaCristina/Portifolio-TG/blob/main/images/microsoft_office_excel_logo_icon_145720.png"/> Microsoft Excel
-  > Utilizamos o Microsoft Excel para organização de atividades e enntregas.
 
 ### Hard skills
-* Criação de protótipos pelo Figma:
-> Sei fazer com autonomia.
-
-* Desenvolvimento de telas em aplicação web utilizando React e JavaScript:
-> Sei fazer com autonomia.
+* **Criação de protótipos pelo Figma -** Sei fazer com autonomia.
+* **Desenvolvimento de telas em aplicação web utilizando React e JavaScript -** Sei fazer com autonomia.
 
 ### Soft skills
-* Integração de Novos Membros
-> Aperfeiçoei minha habilidade de integração ao criar um ambiente acolhedor para novos membros, facilitando a adaptação deles às dinâmicas de trabalho e ao ritmo da equipe.
-
-* Comunicação 
-> Alcancei por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e resoluções de conflitos e empecilhos no meio do projeto. Além de resolver conflitos aprentes na equipe.
- 
-* Resolução de Problemas Técnicos
-> Aumentei minha capacidade de resolver problemas técnicos ao enfrentar desafios com novas tecnologias e ajudar a equipe a se adaptar a elas, garantindo que todos estivessem confortáveis com as ferramentas utilizadas nos projetos acadêmicos.
-
-* Gestão e Definição de Tarefas
-> Melhorei minhas habilidades de gestão e definição de tarefas ao planejar e distribuir atividades, garantindo que cada membro da equipe tivesse um papel claro e contribuísse para o sucesso do projeto acadêmico.
+Durante o projeto, não enfrentamos complicações significativas com a equipe ou com a tecnologia, o que contribuiu para um desenvolvimento tranquilo. No entanto, um desafio importante foi lidar com as constantes mudanças nas requisições do cliente, que nem sempre estavam claras, além de garantir que as expectativas estivessem alinhadas com os requisitos. Para superar esse desafio, trabalhei no fortalecimento da comunicação com a equipe, buscando manter todos alinhados ao fluxo de desenvolvimento definido. Meu foco foi garantir que o projeto seguisse conforme o requisito inicial, mesmo quando não recebíamos respostas rápidas do cliente, mantendo a qualidade e o progresso contínuo do trabalho.
+<hr>
+</Div>
 
 
+<div name="6sem"></div>
 
+### ⭐ 6° Semestre - Em 2024.2
+
+<Div align="justify" >
+
+### Problema
+
+O projeto de Aprendizagem por Projetos Integrados do 6º semestre do curso de Análise e Desenvolvimento de Sistemas foi realizado em parceria com a **Dom Rock**, uma empresa especializada em Inteligência Artificial. O desafio proposto foi desenvolver uma solução de IA que analisasse reviews de produtos de e-commerce e gerasse insights para o departamento de compras corporativas. A proposta visava otimizar o processo de seleção de produtos e fornecedores, utilizando o feedback dos consumidores para facilitar decisões mais informadas e assertivas.
+
+### Solução
+
+Para atender às necessidades da **Dom Rock**, a solução foi estruturada em diferentes frentes de desenvolvimento, com foco na criação de um sistema capaz de analisar grandes volumes de dados de forma eficiente e gerar insights estratégicos para o cliente.
+
+O projeto foi dividido em repositórios no **GitHub**, organizados por áreas específicas: **Front-End**, **Dataset** e **IA**, garantindo uma colaboração bem estruturada entre as equipes. A IA foi construída utilizando **Python** e o framework **LangChain**, que facilitou a aplicação de técnicas avançadas como **chunking**, **embeddings** e **RAG**. O **FAISS** foi adotado como banco de dados vetorial, permitindo uma busca e armazenamento eficientes dos dados extraídos dos reviews.
+
+No front-end, uma interface web interativa foi desenvolvida utilizando **TypeScript** e **VueJS**, proporcionando uma experiência de usuário dinâmica. Através de um chatbot integrado, os usuários podem interagir com a IA, fazendo perguntas sobre produtos e recebendo respostas detalhadas com base nos insights gerados. Essa abordagem permitiu transformar dados brutos de feedback em informações valiosas para o departamento de compras, com ênfase na análise de tendências de mercado, comparação de fornecedores e identificação de produtos de maior aceitação.
+
+[GIT](https://github.com/4DeskGroup/API-2024.2)
+
+### Tecnologias utilizadas:
+
+- Figma  - Utilizado para desenvolver o protótipo.
+- VScode - Utilizado para o desenvolvimento do código do projeto.
+- VueJS - Utilizamos o framework VueJS para o desenvolvimento de todo o front-end do projeto.
+- Python - Utilizamos a linguagem de programação Python para o desenvolvimento da IA utilizando framework LangChain.
+- TypeScript - Utilizados para o desenvolvimento de todo o frontend do projeto.
+- GitHub - Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+- Jira Software - Utilizado como a principal ferramenta para o gerenciamento de todo o processo do projeto, gestão das sprints, organização de backlog, priorização de tarefas e controle de prazos, contribuindo para uma execução mais ágil e eficiente do projeto.
+
+### Contribuições pessoais:
+
+Neste projeto, atuei como **Scrum Master**, sendo responsável por garantir que o time seguisse os princípios e práticas do Scrum, promovendo um ambiente colaborativo e eficiente. Utilizei o **Jira Software** para controlar todo o processo do projeto, gerenciando o backlog, organizando as sprints, atribuindo tarefas e monitorando o progresso das atividades. Além disso, minhas responsabilidades incluíram a facilitação das cerimônias ágeis, como as **Daily Stand-ups**, **Sprint Planning**, **Sprint Review** e **Sprint Retrospective**.
+
+Em termos de documentação, o foco foi em manter o repositório do **GitHub** bem organizado, com a definição clara de branches e commits, aderindo ao padrão do **Conventional Commits** para garantir um fluxo de trabalho estruturado e eficiente. 
+
+Além disso, trabalhei ativamente no apoio ao time, removendo impedimentos que surgissem durante as sprints, promovendo a comunicação contínua e garantindo que todos os membros estivessem alinhados com os objetivos do projeto. Também foi fundamental meu trabalho em estreitar o relacionamento entre a equipe e o cliente, garantindo a transparência no andamento do projeto e ajustando os requisitos conforme necessário.
+
+<details><summary>Demonstração</summary>
+  
+### Resultado das páginas em front-end:
+<div align="justify" >
+<img src='https://github.com/4DeskGroup/API-2024.2/blob/main/docs%20sprints/sprint2.gif'  width='65%' height='65%'>
+</div>
+</div>
+
+### Hard skills:
+
+
+
+### Soft skills:
+No último projeto integrador, tive a oportunidade de vivenciar uma experiência enriquecedora como **Scrum Master**, onde pude colocar em prática todas as atividades e responsabilidades associadas a esse papel. A curva de aprendizado foi desafiadora, especialmente porque as práticas de Scrum nos semestres anteriores eram realizadas de maneira diferente, exigindo uma adaptação rápida e eficaz para atender às exigências desse semestre.
+
+Durante o projeto, desenvolvi habilidades essenciais como organização, proatividade e comunicação. A interação com a equipe foi fundamental para explicar todo o processo ágil, incluindo o **padrão de commits** adotado no **GitHub**, o fluxo de organização do código e como as tarefas eram atribuídas no **Jira Software**. Esclareci detalhadamente o funcionamento das mudanças de etapas das atividades, o que foi crucial para garantir o progresso contínuo e alinhamento do time.
+
+Um dos pontos de maior desafio foi reforçar a importância das **Daily Stand-ups**, onde precisei incentivar a equipe a participar ativamente, criando até mesmo um grupo de chat para facilitar a comunicação diária. Além disso, para otimizar o acesso aos documentos e melhorar a organização, criamos uma equipe no **Microsoft Teams**, o que facilitou o compartilhamento de informações e a colaboração.
+
+Também desempenhei um papel ativo na **resolução de problemas técnicos**, especialmente devido ao uso de novas tecnologias, que foram desafiadoras para todos os membros da equipe. Minha atuação foi decisiva para apoiar a equipe no superamento desses obstáculos, garantindo que a entrega do projeto fosse bem-sucedida e dentro do cronograma.
+
+</div>
