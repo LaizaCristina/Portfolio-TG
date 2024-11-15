@@ -449,6 +449,10 @@ Além disso, trabalhei ativamente no apoio ao time, removendo impedimentos que s
 
 ### Hard skills:
 
+- **Desenvolvimento VueJS -** Sei fazer com ajuda.
+- **Desenvolvimento Python para RAG com LangChain -** Sei fazer com ajuda e pesquisa.
+- **Desenvolvimento TypeScript -** Sei fazer com ajuda.
+- **Gerenciamento do projeto Jira Software -** Sei fazer com autonomia.
 
 
 ### Soft skills:
