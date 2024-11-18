@@ -455,6 +455,7 @@ Além disso, trabalhei ativamente no apoio ao time, removendo impedimentos que s
 - **Gerenciamento do projeto Jira Software -** Sei fazer com autonomia.
 
 <div align="justify" >
+  
 ### Soft skills:
 No último projeto integrador, tive a oportunidade de vivenciar uma experiência enriquecedora como **Scrum Master**, onde pude colocar em prática todas as atividades e responsabilidades associadas a esse papel. A curva de aprendizado foi desafiadora, especialmente porque as práticas de Scrum nos semestres anteriores eram realizadas de maneira diferente, exigindo uma adaptação rápida e eficaz para atender às exigências desse semestre.
 
