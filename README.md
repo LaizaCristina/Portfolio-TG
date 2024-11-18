@@ -139,7 +139,7 @@ Como Scrum Master, desempenhei o papel de facilitador, promovendo uma comunicaç
   
 ### Problema
 
-O projeto integrador do segundo semestre do curso teve como objetivo desenvolver uma aplicação desktop para o cliente Track Cash. Identificamos que a integração dos registros de vendas de canais físicos e online era uma necessidade crucial para o cliente, que buscava centralizar o acesso a essas informações em uma única plataforma. Antes disso, o processo de consulta e gestão desses dados era descentralizado, dificultando a interação eficiente dos usuários com os dados de vendas e impactando a experiência geral de uso.
+O projeto integrador do segundo semestre do curso teve como objetivo desenvolver uma aplicação desktop para o cliente Track Cash, uma empresa do setor financeiro especializada em controle de gastos. Identificamos que a integração dos registros de vendas de canais físicos e online era uma necessidade crucial para o cliente, que buscava centralizar o acesso a essas informações em uma única plataforma. Antes disso, o processo de consulta e gestão desses dados era descentralizado, dificultando a interação eficiente dos usuários com os dados de vendas e impactando a experiência geral de uso.
 
 ### Solução
 
@@ -202,7 +202,7 @@ Além disso, trabalhei intensamente minha **persistência** no aprendizado e des
 
 ### Problema
 
-O projeto integrador do terceiro semestre do curso teve como objetivo desenvolver uma aplicação web para o cliente Visiona, voltada para o Gerenciamento de Usuários. Identificamos que o cliente precisava de uma solução moderna e eficiente para organizar, gerenciar e controlar o acesso de usuários ao sistema, já que o processo existente era manual e propenso a erros. Essa lacuna comprometia a produtividade e dificultava a administração de informações críticas.  
+O projeto integrador do terceiro semestre do curso teve como objetivo desenvolver uma aplicação web para o cliente Visiona, uma empresa do setor espacial, voltada para o Gerenciamento de Usuários. Identificamos que o cliente precisava de uma solução moderna e eficiente para organizar, gerenciar e controlar o acesso de usuários ao sistema, já que o processo existente era manual e propenso a erros. Essa lacuna comprometia a produtividade e dificultava a administração de informações críticas.  
 
 ### Solução
 
@@ -269,7 +269,7 @@ O projeto do 3° semestre foi conduzido de forma tranquila e eficiente. Mesmo co
 
 ### Problema  
 
-O projeto integrador do quarto semestre teve como objetivo desenvolver uma aplicação web para o cliente **Greenneat**, visando a criação de uma plataforma de gestão de créditos. O cliente precisava de uma solução que integrasse o sistema de **coleta de materiais recicláveis** realizados pelos parceiros em estabelecimentos cadastrados, com a gestão de créditos recebidos como contrapartida. Esses créditos poderiam ser utilizados posteriormente pelos usuários para adquirir produtos na loja virtual da Greenneat. Antes da implementação, o processo era manual e pouco eficiente, dificultando o controle e a rastreabilidade das transações de créditos e materiais.  
+O projeto integrador do quarto semestre teve como objetivo desenvolver uma aplicação web para o cliente **Greenneat**, uma empresa do setor de controle e descarte de óleo usado, visando a criação de uma plataforma de gestão de créditos. O cliente precisava de uma solução que integrasse o sistema de **coleta de materiais recicláveis** realizados pelos parceiros em estabelecimentos cadastrados, com a gestão de créditos recebidos como contrapartida. Esses créditos poderiam ser utilizados posteriormente pelos usuários para adquirir produtos na loja virtual da Greenneat. Antes da implementação, o processo era manual e pouco eficiente, dificultando o controle e a rastreabilidade das transações de créditos e materiais.  
 
 ### Solução  
 
@@ -344,7 +344,7 @@ Ao longo do desenvolvimento, trabalhei constantemente a **comunicação**, a **d
 
 ### Problema  
 
-O projeto integrador do quinto semestre teve como objetivo desenvolver uma aplicação mobile para o cliente **Oracle**, focada na criação de um sistema de **gestão de parceiros**. O cliente necessitava de uma solução que permitisse cadastrar novos parceiros, gerenciar suas informações, acompanhar o desenvolvimento de conhecimento dos mesmos e fornecer relatórios relevantes sobre o desempenho, de forma acessível e eficiente. Antes da implementação do sistema, o processo era descentralizado e manual, o que dificultava o acompanhamento e a gestão dos parceiros de forma eficaz e integrada.  
+O projeto integrador do quinto semestre teve como objetivo desenvolver uma aplicação mobile para o cliente **Oracle**, uma empresa líder em fornecimento de softwares para desenvolvimento, bancos de dados e ERPs, focada na criação de um sistema de **gestão de parceiros**. O cliente necessitava de uma solução que permitisse cadastrar novos parceiros, gerenciar suas informações, acompanhar o desenvolvimento de conhecimento dos mesmos e fornecer relatórios relevantes sobre o desempenho, de forma acessível e eficiente. Antes da implementação do sistema, o processo era descentralizado e manual, o que dificultava o acompanhamento e a gestão dos parceiros de forma eficaz e integrada.  
 
 ### Solução  
 
