@@ -454,7 +454,7 @@ Além disso, trabalhei ativamente no apoio ao time, removendo impedimentos que s
 - **Desenvolvimento TypeScript -** Sei fazer com ajuda.
 - **Gerenciamento do projeto Jira Software -** Sei fazer com autonomia.
 
-
+<div align="justify" >
 ### Soft skills:
 No último projeto integrador, tive a oportunidade de vivenciar uma experiência enriquecedora como **Scrum Master**, onde pude colocar em prática todas as atividades e responsabilidades associadas a esse papel. A curva de aprendizado foi desafiadora, especialmente porque as práticas de Scrum nos semestres anteriores eram realizadas de maneira diferente, exigindo uma adaptação rápida e eficaz para atender às exigências desse semestre.
 
@@ -463,5 +463,5 @@ Durante o projeto, desenvolvi habilidades essenciais como organização, proativ
 Um dos pontos de maior desafio foi reforçar a importância das **Daily Stand-ups**, onde precisei incentivar a equipe a participar ativamente, criando até mesmo um grupo de chat para facilitar a comunicação diária. Além disso, para otimizar o acesso aos documentos e melhorar a organização, criamos uma equipe no **Microsoft Teams**, o que facilitou o compartilhamento de informações e a colaboração.
 
 Também desempenhei um papel ativo na **resolução de problemas técnicos**, especialmente devido ao uso de novas tecnologias, que foram desafiadoras para todos os membros da equipe. Minha atuação foi decisiva para apoiar a equipe no superamento desses obstáculos, garantindo que a entrega do projeto fosse bem-sucedida e dentro do cronograma.
-
+</div>
 </div>
