@@ -19,7 +19,7 @@ No ano de conclusão do curso técnico, iniciei o ensino superior na Faculdade d
 
 Ao longo dos semestres, até o semestre atual, assumi o cargo de Scrum Master, onde desenvolvi habilidades de gestão de equipes, projetos, tarefas e atividades, além de metodologia ágil. Também pude melhorar minhas soft skills como mediadora entre os membros da equipe em momentos de conflitos. Desenvolvi-me na área das tecnologias e linguagens de programação utilizadas ao longo de cada semestre. Com as apresentações do API (Aprendizagem por Projetos Integrados), pude aprimorar oratória e apresentação em público.
 
-Para complementar minha trajetória até o momento, iniciei o estágio na empresa ProNext, onde atuo na área de PPM (Project Portfolio Management), tendo contato direto com gestão de projetos, experiência do usuário UI/UX, planejamento, desenvolvimento low-code, armazenamento de dados, criação de automação de fluxos e lógica de programação.
+Para complementar minha trajetória até o momento, iniciei o trabalho na empresa ProNext, onde atuo na área de Desenvolvimento com Microsoft Power Platform, tendo contato direto com gestão de projetos, experiência do usuário UI/UX, planejamento, desenvolvimento low-code, armazenamento de dados, criação de automação de fluxos e lógica de programação, utilizando as ferramentas: Power Apps, Power Automate, Power BI, Dataverse, Sharepoint, Project e Figma.
 
 </Div>
 
