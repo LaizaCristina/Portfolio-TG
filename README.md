@@ -12,7 +12,7 @@
 
 <Div align="justify" >
 
-Sou estudante do 6º semestre do curso Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal em São José dos Campos. No ensino médio, despertei o interesse pela área de tecnologia e busquei aprimorar meus conhecimentos por meio de cursos técnicos.
+Sou graduada no curso Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal em São José dos Campos. No ensino médio, despertei o interesse pela área de tecnologia e busquei aprimorar meus conhecimentos por meio de cursos técnicos.
 
 Durante o ensino médio, o qual cursei na Escola Estadual José Mariotto Ferreira Major Aviador, junto com o curso de Aprendizagem Industrial de Mecânico de Usinagem no Serviço Nacional de Aprendizagem Industrial (SENAI), desenvolvi uma base sólida de soft skills voltada para organização, respeito com os professores e colegas de classe, e principalmente disciplina. No SENAI, também tive contato com programação de CNC. Depois, iniciei o curso Técnico de Automação Industrial no Instituto Federal de São Paulo (IFSP), onde pude ter mais contato e desenvolver mais habilidades em programação com Arduinos, linguagem C++, CLP e CNC.
 No ano de conclusão do curso técnico, iniciei o ensino superior na Faculdade de Tecnologia (FATEC), onde pude ter contato mais direto com a área de tecnologia e programação.
